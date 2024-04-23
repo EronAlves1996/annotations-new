@@ -1,0 +1,3 @@
+- Page 185
+- Verificar etiqueta template agrupador (migração)
+- Rodar queries de atualização do GACE
