@@ -8,67 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1b987f6dd3b4c71",
+            "id": "4a29dd8a15142f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "MySQL/Show all constraints on table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2746c9d5729d1831",
+            "id": "b1dd433be556fd4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go struct.md",
+                "file": "MySQL/Show indexes mysql.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16d766a148292ae7",
+            "id": "60b1c3a57b64b206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe361dc72acb03c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pgsql describe talbe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3efe16a94a028826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go basic http server schema.md",
+                "file": "Currículo/Eron Alves da Silva.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dyna",
+                "query": "constrain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eabd87a27ca31744",
@@ -135,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "MySQL/Show indexes mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "MySQL/Show indexes mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md"
+                "file": "MySQL/Show indexes mysql.md"
               }
             }
           }
@@ -198,35 +173,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16d766a148292ae7",
+  "active": "b1dd433be556fd4d",
   "lastOpenFiles": [
-    "Golang publish a module.md",
-    "Go map.md",
-    "Go struct.md",
-    "Project Polyglot Blog Roadmap.md",
-    "Currículo/Eron Alves da Silva.md",
-    "Go basic http server schema.md",
-    "2024-05-01.md",
-    "Untitled.md",
+    "adb devices no permissions.md",
+    "See what program is listening on port.md",
+    "2024-05-03.md",
     "pgsql describe talbe.md",
-    "Currículo/DynamoDB.md",
-    "Currículo/Kanban + weekly.md",
-    "Currículo/Manutenção de código.md",
-    "Currículo/Teste unitário.md",
-    "Currículo/Postgresql.md",
-    "Currículo/React.md",
-    "Currículo/Typescript.md",
-    "Currículo/Code Review.md",
-    "Currículo/GIT.md",
-    "Currículo/Pair Programming.md",
-    "Currículo/Estrutura de dados.md",
-    "Currículo/SQL.md",
-    "Currículo/Spring Boot.md",
-    "Currículo/Escalabilidade.md",
-    "Currículo/Mongodb.md",
+    "Untitled.md",
+    "Tô read.md",
+    "Supply chain attack.md",
+    "Sheppard tone.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Golang publish a module.md",
+    "Golang checksum db.md",
+    "Go struct.md",
+    "Go routing.md",
+    "Go response writer.md",
+    "Go module path.md",
+    "Go map.md",
+    "Go initialize module.md",
+    "Go http.DetectContentType.md",
+    "Go default servermux.md",
+    "Go basic http server schema.md",
     "Currículo/Untitled.md",
-    "Currículo/MySQL.md",
-    "Currículo",
+    "Currículo/Typescript.md",
+    "Currículo/Teste unitário.md",
+    "Currículo/Spring Boot.md",
+    "Currículo/SQL.md",
+    "Currículo/React.md",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
     "Java/JSF/imagens/Chrome Console.png",
@@ -245,6 +219,7 @@
     "Java",
     "Git Flow",
     "Encoding",
-    "Selenium"
+    "Selenium",
+    "GTI"
   ]
 }
