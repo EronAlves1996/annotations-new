@@ -1,0 +1,1 @@
+* Implementação, gerenciamento e deploy de serviços servless na AWS;

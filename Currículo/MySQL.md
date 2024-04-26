@@ -1,0 +1,1 @@
+- Gestão e otimização de bancos de dados MySQL, realizando a modelagem de dados, desenvolvimento de procedimentos armazenados e ajuste fino de consultas para maximizar a eficiência e o desempenho.

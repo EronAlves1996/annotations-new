@@ -1,0 +1,2 @@
+- Responsável pelo desenvolvimento e manutenção de aplicações Spring Boot, aplicando conceitos avançados de programação e seguindo rigorosamente os padrões de código.
+- Encarregado da engenharia e atualização contínua de aplicações **Spring Boot**, empregando técnicas de programação de ponta e aderindo estritamente aos padrões de desenvolvimento estabelecidos.
