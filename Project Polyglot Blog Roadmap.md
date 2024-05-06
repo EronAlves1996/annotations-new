@@ -1,19 +1,22 @@
-- [ ] Initialize a go module
-- [ ] Provide handlers for
-  - [ ] search 
-  - [ ] homepage 
-  - [ ] blog post 
-    - [ ] edit comment
-    - [ ] add comment 
-    - [ ] delete comment
-  - [ ] drafts 
-  - [ ] tag posts
-  - [ ] login
-  - [ ] admin panel 
-    - [ ] new post
-    - [ ] edit post 
-    - [ ] delete post
-  - [ ] users
-    - [ ] register 
-    - [ ] login
-    - [ ] user/adm panel
+- [x] Initialize a go module
+- [x] Provide handlers for
+  - [x] search 
+  - [x] homepage 
+  - [x] blog post 
+  - [x] drafts 
+  - [x] login
+    - [x] new post
+    - [x] edit post 
+    - [x] delete post
+  - [x] users
+    - [x] register 
+    - [x] login
+- [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
+- [ ] Path parameters required routes
+	- [ ] Comments
+		- [ ] edit comment
+		- [ ] add comment
+		- [ ] delete comment
+	- [ ] Posts by tags
+	- [ ] Users
+		- [ ] user/adm panel

@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Currículo/Eron Alves da Silva.md",
+                "file": "Project Polyglot Blog Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2746c9d5729d1831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go struct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16d766a148292ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Polyglot Blog Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-01.md",
+                "file": "Go basic http server schema.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-01.md",
+                "file": "Project Polyglot Blog Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-01.md",
+                "file": "Project Polyglot Blog Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-01.md"
+                "file": "Project Polyglot Blog Roadmap.md"
               }
             }
           }
@@ -174,12 +198,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3efe16a94a028826",
+  "active": "16d766a148292ae7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2024-05-01.md",
-    "pgsql describe talbe.md",
+    "Golang publish a module.md",
+    "Go map.md",
+    "Go struct.md",
+    "Project Polyglot Blog Roadmap.md",
     "Currículo/Eron Alves da Silva.md",
+    "Go basic http server schema.md",
+    "2024-05-01.md",
+    "Untitled.md",
+    "pgsql describe talbe.md",
     "Currículo/DynamoDB.md",
     "Currículo/Kanban + weekly.md",
     "Currículo/Manutenção de código.md",
@@ -197,11 +226,6 @@
     "Currículo/Mongodb.md",
     "Currículo/Untitled.md",
     "Currículo/MySQL.md",
-    "Currículo/Kanban.md",
-    "Currículo/Javascript.md",
-    "Currículo/Arquitetura de microsserviços.md",
-    "Currículo/Fila.md",
-    "Currículo/REST.md",
     "Currículo",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
