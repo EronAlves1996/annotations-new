@@ -1,0 +1,1 @@
+* Utilização de JavaScript e **jQuery** para criar interfaces de usuário dinâmicas e responsivas. A combinação dessas tecnologias permitiu uma implementação rápida de funcionalidades complexas e uma interatividade aprimorada no front-end.

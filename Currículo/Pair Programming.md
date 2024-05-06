@@ -1,0 +1,2 @@
+- Prática de pair programming, colaborando estreitamente com colegas para desenvolver soluções inovadoras e resolver problemas complexos. 
+- Atuação como mentor para desenvolvedores juniores e compartilhando conhecimento técnico através de pair programming.

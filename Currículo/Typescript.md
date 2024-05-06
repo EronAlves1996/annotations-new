@@ -1,0 +1,3 @@
+- Uso de TypeScript aplicado no desenvolvimento de soluções completas, abrangendo tanto o front-end quanto o back-end, garantindo um código consistente e de alta qualidade em todas as camadas da aplicação.
+- Emprego de TypeScript no desenvolvimento integrado de interfaces de usuário e lógica de servidor, assegurando uniformidade e excelência no código em todos os níveis do software.
+- Utilização de TypeScript para o desenvolvimento coeso de componentes front-end e back-end, promovendo consistência e alta qualidade do código através da aplicação.

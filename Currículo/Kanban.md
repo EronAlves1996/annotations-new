@@ -1,0 +1,1 @@
+- Utilizamos Kanban como nossa principal metodologia ágil, complementada por reuniões ocasionais. Essa estrutura mais flexível facilitou a gestão do trabalho em um ambiente dinâmico, permitindo que a equipe se mantivesse ágil e responsiva sem a necessidade de reuniões frequentes.

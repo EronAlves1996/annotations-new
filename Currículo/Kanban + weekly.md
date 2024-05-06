@@ -1,0 +1,1 @@
+- Adotamos uma abordagem híbrida para a metodologia ágil, combinando Kanban com reuniões weekly. Isso permitiu uma visibilidade contínua do fluxo de trabalho e uma adaptação rápida às mudanças, mantendo todos os membros da equipe alinhados e focados em entregar valor de forma consistente.

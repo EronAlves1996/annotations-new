@@ -1,0 +1,2 @@
+- Compromisso com a egibilidade do código, seguindo convenções de nomenclatura e documentação que facilitam o entendimento e a manutenção por outros desenvolvedores.
+- 

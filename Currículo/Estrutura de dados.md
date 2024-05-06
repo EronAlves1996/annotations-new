@@ -1,0 +1,1 @@
+- Demonstração de forte capacidade analítica no desenvolvimento de testes complexos, utilizando Sets em algumas operações, como garantir o agrupamento correto de dados ou verificar se não há dados repetidos.

@@ -1,0 +1,1 @@
+- Na minha última posição, fui responsável por melhorar a escalabilidade do sistema através da implementação de uma fila de mensagens personalizada, desenvolvida internamente. Essa solução foi crucial para otimizar o processamento assíncrono e garantir a entrega eficiente de mensagens entre os serviços.

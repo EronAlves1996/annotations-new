@@ -1,0 +1,1 @@
+- Proficiência no uso do DynamoDB da AWS para garantir um armazenamento de dados NoSQL de alta performance e confiabilidade.

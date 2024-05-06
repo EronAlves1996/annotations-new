@@ -1,0 +1,2 @@
+- Desenvolvimento consistente de testes unitários e testes de integração para assegurar a qualidade do software.
+- Elaboração regular de testes unitários e de integração, visando a manutenção da integridade e do desempenho do software.

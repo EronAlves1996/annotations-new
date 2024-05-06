@@ -1,0 +1,2 @@
+- Desenvolvimento proativo de soluções com escalabilidade em mente, garantindo que a arquitetura do sistema suportasse um crescimento exponencial tanto em carga de trabalho quanto em complexidade de dados.
+- Implementação de serviços distribuídos e arquitetura modular para facilitar a expansão e manutenção do sistema.

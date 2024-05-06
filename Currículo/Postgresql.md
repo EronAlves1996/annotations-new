@@ -1,0 +1,1 @@
+* Administração avançada de bancos de dados PostgreSQL, com foco na modelagem estratégica de dados, criação de funções armazenadas e refinamento de consultas SQL para otimizar a performance e a escalabilidade do sistema.

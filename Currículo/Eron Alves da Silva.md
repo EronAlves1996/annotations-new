@@ -5,31 +5,51 @@
 ------
 ## Objetivo
 
-Desenvolvedor Java
+Desenvolvedor Fullstacks
 
 ## Experiências
 
 * ### Engenheiro de Software - Letwe Innovation
 	**Dez/23 - Atual**
-	* Responsável pelo desenvolvimento e manutenção de aplicações Spring Boot, aplicando conceitos avançados de programação e seguindo rigorosamente os padrões de código.
-	* Gestão e otimização de bancos de dados MySQL, realizando a modelagem de dados, desenvolvimento de procedimentos armazenados e ajuste fino de consultas para maximizar a eficiência e o desempenho.
+	* Nesta posição, trabalhei principalmente nas tecnologias Java, com os frameworks Spring Boot e Java EE;
+	* Posição fullstack, utilizando Javascript e JQuery no front-end para as partes que necessitam de interatividade;
+	* Utilização de Java também na parte de Mobile, com bibliotecas de reatividade para controle da interatividade, principalmente RxJs;
+	* Na parte de Banco de Dados, atuei com MySQL e MongoDB. Otimizei várias queries, reduzindo o tempo de retorno em mais de 60% e melhorei a modelagem de algumas coleções do MongoDB, me aproveitando de queries de agregação;
+	* Uso do GIT como ferramenta de versionamento de código;
+	* Escrita de testes unitários e testes E2E para garantir a qualidade da aplicação, e correta implementação das regras de negócio;
+	* Pareamento com colegas para auxílio técnico e também auxílio no entendimento da regra de negócio;
+	* Utilização de Kanban com reuniões ocasionais para controle e coordenação das tasks.
 
 * ### Engenheiro de Software - ESF Cunha Ltda
 	**Set/23 - Jan/24** 
-	* Designado para a concepção e implementação de operações em bancos de dados com SQL, com foco na melhoria contínua do desempenho das consultas;
+	* Responsável pelo escopo do front-end da aplicação e otimização do back-end;
+	* Construção de interfaces usando Next.js, React e Typescript;
+	* Otimização do back-end em Typescript, com banco de dados PostgreSQL, incluindo otimização e construção de queries performáticos de acordo com a necessidade da aplicação;
+	* Utilização do GIT como ferramenta de controle de versão;
+	* Mentoria de pares, utilizando pair programming, reuniões e comunicação constante.
 
 * ### Analista de Soluções Customizadas II - Capgemini Brasil
 	**Jul/22 - Set/23**
-	* Encarregado da engenharia e atualização contínua de aplicações Spring Boot, empregando técnicas de programação de ponta e aderindo estritamente aos padrões de desenvolvimento estabelecidos;
-	* Responsável pela estruturação e execução de procedimentos em bancos de dados com SQL, incluindo a refinamento e melhoria contínua das consultas.
+	* Atuação com framework Java EE;
+	* Utilização do GIT como ferramento de controle de versão;
+	* Otimização de queries SQL;
+	* Ideação e construção de ferramentas de auxílio ao time de desenvolvimento utilizado Go e C# como stacks principais.
 
 * ### Engenheiro de Software - Ixpertise Marketing e Tecnologia
 	**Jul/23 - Set/23**
-	* Encarregado de projetar e realizar operações em bancos de dados utilizando SQL, com um enfoque especial na otimização e aperfeiçoamento progressivo das consultas.
+	* Responsável pelo escopo do front-end da aplicação e otimização do back-end;
+	* Construção de interfaces usando Next.js, React e Typescript;
+	* Trabalho conjunto com o time de UX para otimização da interface para garantir a melhor entrega ao usuário;
+	* Realização de revisão de código junto com colegas para manter a homogeneidade do código;
+	* Utilização do GIT como ferramenta de controle de versão.
 
 * ### Engenheiro de Software - Ember Labs
 	**Abr/23 - Ago/23**
-	* Liderança no desenvolvimento e na otimização de APIs REST, focando na alta eficiência e na interação de qualidade com os sistemas de banco de dados.
+	* Atuação como Fullstack, entregando soluções utilizando React no front-end, e Typescript no back-end;
+	* Construção de aplicações servless, com deploy no AWS Lambdas e AWS Cloudfront;
+	* Modelagem e otimização de banco de dados, baseado em DynamoDB;
+	* Mentoria de pares, utilizando pair programming e code review para orientação e  fomentação de melhores práticas;
+	* Utilização do Kanban e reuniões semanais para alinhamento e coordenação das tasks sendo feitas em cada iteração.
 ## Formação
 
 * ### Administração de Empresas - PUC Minas
