@@ -1,0 +1,5 @@
+- [ ] https://sre.google/sre-book/service-best-practices/
+- [ ] https://research.swtch.com/vgo-mvs
+- [ ] https://research.swtch.com/vgo-principles
+- [ ] https://m.youtube.com/clip/UgkxWCEmMJFW0-TvSMzcMEAHZcpt2FsVXP65
+- [ ] https://mimesniff.spec.whatwg.org

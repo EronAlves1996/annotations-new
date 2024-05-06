@@ -1,0 +1,4 @@
+- Attack where software are attacked by compromising it's dependencies 
+- ex.:
+  - Faker 
+- https://research.swtch.com/npm-colors

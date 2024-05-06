@@ -1,0 +1,2 @@
+- should be a unique string
+- I follow the rule of a GitHub url that I learned before, but as a general rule, it can be a domain url that you own (what makes sense)

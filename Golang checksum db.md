@@ -1,0 +1,2 @@
+- is editable from `GOSUMDB` env var
+- verifies dependencies checksum

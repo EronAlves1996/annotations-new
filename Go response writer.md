@@ -1,0 +1,4 @@
+- it's possible to call whitehead once per response 
+- if write is called before, it assumes 200, and it's immutable after it
+- writeHeader should be called before these two methods
+- http.Error is a shortcut to send errors

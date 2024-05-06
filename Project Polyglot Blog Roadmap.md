@@ -1,0 +1,19 @@
+- [ ] Initialize a go module
+- [ ] Provide handlers for
+  - [ ] search 
+  - [ ] homepage 
+  - [ ] blog post 
+    - [ ] edit comment
+    - [ ] add comment 
+    - [ ] delete comment
+  - [ ] drafts 
+  - [ ] tag posts
+  - [ ] login
+  - [ ] admin panel 
+    - [ ] new post
+    - [ ] edit post 
+    - [ ] delete post
+  - [ ] users
+    - [ ] register 
+    - [ ] login
+    - [ ] user/adm panel
