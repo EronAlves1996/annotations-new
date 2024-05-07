@@ -1,0 +1,1 @@
+* Posição fullstack, utilizando Typescript e Angular no front-end;

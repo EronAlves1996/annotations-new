@@ -23,3 +23,7 @@
 		- [ ] user/adm panel
 - [ ] define a base template for blog
 - [ ] extract configuration to cli flags
+- [ ] Creation methods needs headers `Location`
+- [ ] Query parameters
+	- [ ] Search: alfanumeric value
+- [ ] 

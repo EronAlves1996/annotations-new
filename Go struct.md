@@ -17,4 +17,7 @@ str := Elex{
   name: type_initialization,
 }
 
+// positional initialization
+str := Elex {"ashasda"}
+
 ```

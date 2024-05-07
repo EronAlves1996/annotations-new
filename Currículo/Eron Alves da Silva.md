@@ -5,14 +5,14 @@
 ------
 ## Objetivo
 
-Desenvolvedor Fullstacks
+Desenvolvedor Fullstack
 
 ## Experiências
 
 * ### Engenheiro de Software - Letwe Innovation
 	**Dez/23 - Atual**
 	* Nesta posição, trabalhei principalmente nas tecnologias Java, com os frameworks Spring Boot e Java EE;
-	* Posição fullstack, utilizando Javascript e JQuery no front-end para as partes que necessitam de interatividade;
+	* Posição fullstack, utilizando Typescript e Angular no front-end;
 	* Utilização de Java também na parte de Mobile, com bibliotecas de reatividade para controle da interatividade, principalmente RxJs;
 	* Na parte de Banco de Dados, atuei com MySQL e MongoDB. Otimizei várias queries, reduzindo o tempo de retorno em mais de 60% e melhorei a modelagem de algumas coleções do MongoDB, me aproveitando de queries de agregação;
 	* Uso do GIT como ferramenta de versionamento de código;
