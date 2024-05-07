@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e0321d622187fb",
+        "id": "9b2ff0eaaf24c359",
         "type": "tabs",
         "children": [
           {
-            "id": "4a29dd8a15142f07",
+            "id": "2fbf3a07b35a92fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "To read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03204bc8a24da91a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77c9ed60fbf4f040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98b5280a082a1a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1dd433be556fd4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Currículo/Angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60b1c3a57b64b206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Currículo/Eron Alves da Silva.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,19 +148,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03204bc8a24da91a",
+  "active": "2fbf3a07b35a92fd",
   "lastOpenFiles": [
-    "Tomcat slow startup debug mode.md",
-    "Untitled.md",
-    "Go type assertion.md",
+    "Tô read.md",
     "To read.md",
-    "Go struct.md",
-    "Project Polyglot Blog Roadmap.md",
-    "pgsql describe talbe.md",
-    "See what program is listening on port.md",
     "Currículo/Eron Alves da Silva.md",
     "Currículo/Angular.md",
     "User input.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Tomcat slow startup debug mode.md",
+    "Untitled.md",
+    "Go type assertion.md",
+    "Go struct.md",
+    "pgsql describe talbe.md",
+    "See what program is listening on port.md",
     "Golang headers.md",
     "MySQL/Show all constraints on table.md",
     "Currículo/DynamoDB.md",
@@ -236,7 +176,6 @@
     "Excalidraw/Drawing 2024-04-30 15.49.35.excalidraw.md",
     "Excalidraw/Drawing 2024-04-26 15.04.13.excalidraw.md",
     "Excalidraw/Drawing 2024-04-26 14.50.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
     "Java/JSF/imagens/Chrome Console.png",
