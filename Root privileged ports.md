@@ -1,0 +1,1 @@
+Ports 0-1023 are used to root privileged programs 

@@ -12,6 +12,7 @@
     - [x] register 
     - [x] login
 - [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
+- [ ] restructure project to a more suitable structure 
 - [ ] Path parameters required routes
 	- [ ] Comments
 		- [ ] edit comment
@@ -20,3 +21,5 @@
 	- [ ] Posts by tags
 	- [ ] Users
 		- [ ] user/adm panel
+- [ ] define a base template for blog
+- [ ] extract configuration to cli flags

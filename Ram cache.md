@@ -1,0 +1,1 @@
+Both windows and Linux cache files on RAM to avoid reading it from disk (which is slow)

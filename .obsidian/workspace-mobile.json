@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tô read.md",
+                "file": "Creating command line flags go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tô read.md",
+            "file": "Creating command line flags go.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tô read.md",
+            "file": "Creating command line flags go.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tô read.md"
+            "file": "Creating command line flags go.md"
           }
         }
       }
@@ -134,22 +134,31 @@
   },
   "active": "6cfd9e39d5beb01e",
   "lastOpenFiles": [
+    "12 factor app.md",
+    "Tô read.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Go env vars.md",
+    "Creating command line flags go.md",
+    "Root privileged ports.md",
+    "Go http serving files.md",
+    "Mutex.md",
+    "Go default servermux.md",
+    "Ram cache.md",
+    "Go http Handle vs HandleFunc.md",
+    "Go project structure.md",
+    "Headers http2.md",
     "Go http.DetectContentType.md",
     "Go response writer.md",
-    "Project Polyglot Blog Roadmap.md",
     "Sheppard tone.md",
     "Go routing.md",
-    "Go default servermux.md",
     "Go basic http server schema.md",
     "Java/JSF/procedimento habilitar devtools.excalidraw.md",
     "Excalidraw/Drawing 2024-04-23 10.05.49.excalidraw.md",
     "Encoding/Convert utf8 to ISO-8252.md",
     "Supply chain attack.md",
-    "Tô read.md",
     "Golang checksum db.md",
     "Golang publish a module.md",
     "Go initialize module.md",
-    "Go module path.md",
-    "Javascript/JSON pretty print js.md"
+    "Go module path.md"
   ]
 }
