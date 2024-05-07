@@ -11,15 +11,98 @@
             "id": "2fbf3a07b35a92fd",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "dbf3f5564eeb05f4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "To read.md",
+                "file": "Go type conversion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19d755760c604643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Max int.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c45bfba86e379d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go type conversion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "001e567642d8f163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Splitting string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5ea05cd8164059e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go basic http server schema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bbb341105d26b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Polyglot Blog Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "407141afc34c9d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Polyglot Blog Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -48,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struc",
+                "query": "error",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To read.md",
+                "file": "Project Polyglot Blog Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To read.md",
+                "file": "Project Polyglot Blog Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To read.md"
+                "file": "Project Polyglot Blog Roadmap.md"
               }
             }
           }
@@ -148,34 +231,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fbf3a07b35a92fd",
+  "active": "407141afc34c9d98",
   "lastOpenFiles": [
-    "Tô read.md",
     "To read.md",
+    "Go error handling.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Create Logger.md",
+    "Go basic http server schema.md",
+    "Go sorting.md",
+    "Splitting string.md",
+    "Go type conversion.md",
+    "Go ternary operator.md",
+    "Go Max int.md",
+    "Untitled",
+    "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-25 14.00.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-25 09.12.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 15.10.41.excalidraw.md",
+    "GTI/Apresentacao_integrador.excalidraw.md",
+    "Go type assertion.md",
+    "Tô read.md",
     "Currículo/Eron Alves da Silva.md",
     "Currículo/Angular.md",
     "User input.md",
-    "Project Polyglot Blog Roadmap.md",
     "Tomcat slow startup debug mode.md",
     "Untitled.md",
-    "Go type assertion.md",
     "Go struct.md",
     "pgsql describe talbe.md",
     "See what program is listening on port.md",
     "Golang headers.md",
-    "MySQL/Show all constraints on table.md",
-    "Currículo/DynamoDB.md",
-    "2024-05-06.md",
-    "Git Flow/Git-flow.md",
-    "Excalidraw/Drawing 2024-04-23 15.10.41.excalidraw.md",
-    "Encoding/Convert utf8 to ISO-8252.md",
-    "Currículo/SQL.md",
-    "Currículo/Code Review.md",
-    "MySQL/Show indexes mysql.md",
-    "adb devices no permissions.md",
-    "Excalidraw/Drawing 2024-04-30 15.49.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 15.04.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 14.50.38.excalidraw.md",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
     "Java/JSF/imagens/Chrome Console.png",
@@ -194,7 +278,6 @@
     "Java",
     "Git Flow",
     "Encoding",
-    "Selenium",
-    "GTI"
+    "Selenium"
   ]
 }

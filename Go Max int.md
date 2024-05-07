@@ -1,0 +1,4 @@
+
+```go
+math.MaxInt
+```

@@ -28,3 +28,5 @@
 - [ ] https://www.baeldung.com/java-weekly-540?utm_campaign=jww&utm_medium=email&utm_source=email-newsletter
 - [ ] https://mailchi.mp/hackernewsletter/697-2563635?e=26244c1c53
 - [ ] https://javascriptweekly.com/issues/686
+- [ ] https://talks.golang.org/2015/simplicity-is-complicated.slide
+- [ ] https://www.tiobe.com/tiobe-index/
