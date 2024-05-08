@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating command line flags go.md",
+                "file": "To read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Creating command line flags go.md",
+            "file": "To read.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Creating command line flags go.md",
+            "file": "To read.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Creating command line flags go.md"
+            "file": "To read.md"
           }
         }
       }
@@ -134,11 +134,13 @@
   },
   "active": "6cfd9e39d5beb01e",
   "lastOpenFiles": [
+    "Organizing dependencies go.md",
+    "To read.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Creating command line flags go.md",
     "12 factor app.md",
     "Tô read.md",
-    "Project Polyglot Blog Roadmap.md",
     "Go env vars.md",
-    "Creating command line flags go.md",
     "Root privileged ports.md",
     "Go http serving files.md",
     "Mutex.md",
@@ -157,8 +159,6 @@
     "Encoding/Convert utf8 to ISO-8252.md",
     "Supply chain attack.md",
     "Golang checksum db.md",
-    "Golang publish a module.md",
-    "Go initialize module.md",
-    "Go module path.md"
+    "Golang publish a module.md"
   ]
 }
