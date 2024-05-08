@@ -12,7 +12,7 @@
     - [x] register 
     - [x] login
 - [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
-- [ ] restructure project to a more suitable structure 
+- [x] restructure project to a more suitable structure 
 - [ ] Path parameters required routes
 	- [ ] Comments
 		- [ ] edit comment
