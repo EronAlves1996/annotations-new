@@ -29,3 +29,13 @@
 - [ ] Refactor application to use dependency injection
 - [ ] create loggers and refactor server 
 - [ ] Create a Makefile
+- [ ] Create error handling functions 
+- [ ] Separate routes to a routes file
+- [ ] Create docker database (pgsql)
+- [ ] Migrate a posts table
+- [ ] Create new user on db with restricted privileges 
+- [ ] install latest pgsql driver 
+- [ ] Create a write new post page 
+- [ ] Insert a couple of posts
+- [ ] install markdown parser
+- [ ] introduce pre visualization on new post page 

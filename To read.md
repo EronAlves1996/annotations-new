@@ -30,3 +30,5 @@
 - [ ] https://javascriptweekly.com/issues/686
 - [ ] https://talks.golang.org/2015/simplicity-is-complicated.slide
 - [ ] https://www.tiobe.com/tiobe-index/
+- [ ] http://aspiringcraftsman.com/2008/01/03/art-of-separation-of-concerns/
+- [ ] http://en.wikipedia.org/wiki/Separation_of_concerns

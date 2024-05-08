@@ -1,0 +1,1 @@
+- If you are doing a change, deprecate in a minor release first. IN a major release, remove the code 

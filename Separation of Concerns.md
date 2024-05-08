@@ -1,0 +1,4 @@
+- The concerns should be separated following the abstraction level
+- derivates from DRY
+- derivates from SRP
+- high coesion 
