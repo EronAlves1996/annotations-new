@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "struct",
+                "query": "log.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,11 +162,12 @@
   },
   "active": "fb2a4881ee183f91",
   "lastOpenFiles": [
+    "Go basic http server schema.md",
+    "Project Polyglot Blog Roadmap.md",
+    "Go response writer.md",
     "Organizing dependencies go.md",
     "Go project structure.md",
-    "Project Polyglot Blog Roadmap.md",
     "Go type conversions.md",
-    "Go basic http server schema.md",
     "pgsql describe talbe.md",
     "Go struct.md",
     "Go slices.md",
@@ -188,8 +189,6 @@
     "Go env vars.md",
     "Excalidraw/Drawing 2024-04-30 15.49.35.excalidraw.md",
     "Excalidraw/Drawing 2024-04-26 15.04.13.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 14.50.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md",
     "Currículo",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
@@ -210,3 +209,4 @@
     "Git Flow",
     "Encoding"
   ]
+}

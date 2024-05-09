@@ -11,8 +11,15 @@
   - [x] users
     - [x] register 
     - [x] login
-- [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
 - [x] restructure project to a more suitable structure 
+- [x] define a base template for blog
+- [x] extract configuration to cli flags
+- [x] Creation methods needs headers `Location`
+- [x] Query parameters
+	- [x] Search: alfanumeric value
+- [x] Refactor application to use dependency injection
+- [x] create loggers and refactor server
+- [ ] Docs
 - [ ] Path parameters required routes
 	- [ ] Comments
 		- [ ] edit comment
@@ -39,3 +46,6 @@
 - [ ] Insert a couple of posts
 - [ ] install markdown parser
 - [ ] introduce pre visualization on new post page 
+- [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
+- [ ] Add a CSS and good styling in base template
+- [ ] Add database config flag
