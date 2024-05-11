@@ -1,0 +1,3 @@
+- are tied to the connection where it originated
+- if the connection is closed, the statement need to be reprepared
+- every DBMS has a limit of prepared statements it can hold 

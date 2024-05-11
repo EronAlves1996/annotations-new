@@ -1,0 +1,1 @@
+Use `errors.Is`

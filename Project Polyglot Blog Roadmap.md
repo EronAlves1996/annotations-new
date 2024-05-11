@@ -49,3 +49,12 @@
 - [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
 - [ ] Add a CSS and good styling in base template
 - [ ] Add database config flag
+- [ ] establish database connection 
+- [ ] create a basic post model
+  - Create it in internal/models
+- [ ] Include the model to the application struct 
+- [ ] insert a post
+- [ ] Get a post 
+- [ ] A post should have a creation date. Create a migration for this
+- [ ] render a post
+- [ ] Refactor for get the same post in an API and in a view

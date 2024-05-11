@@ -1,0 +1,7 @@
+- Use `go mod verify` to verify the packages against the go.sum
+- use `go mod download` to download the dependencies of the module
+- Use the `-u` flag in go get to update the package 
+  - Without the version spec, it updates to lastest minor/patch available
+  - To specify some version, append and `@x.xx.xx` 
+- Use `go mod tidy -v` to remove any unused packages
+- Use `go get` with a `none` version spec to remove the package 

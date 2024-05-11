@@ -1,0 +1,2 @@
+- You can pass one and only struct to templates
+- Compose structs to pass a single struct, then

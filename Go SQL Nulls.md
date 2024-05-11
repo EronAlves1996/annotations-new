@@ -1,0 +1,3 @@
+- Go is not good to handling null values on database 
+- you can use sql.Null* to use in place to unmarshal the value
+- However, the best thing to do is to avoid the nil values, by not permitting them to occur on SQL columns 

@@ -25,6 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "postgres prepared statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c36803f2b3c7d94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Polyglot Blog Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e26e5257c7d2b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Polyglot Blog Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9664aecdb3aa6897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "To read.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,14 +181,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab742d778b55c391",
+  "active": "9664aecdb3aa6897",
   "lastOpenFiles": [
+    "Passing data to Golang templates.md",
     "Project Polyglot Blog Roadmap.md",
+    "To read.md",
+    "Prepared statements.md",
+    "postgres prepared statement.md",
+    "Go SQL Nulls.md",
+    "Go SQL row scanning.md",
+    "Go checking error types.md",
+    "Djxnxm.md",
+    "Go database connection.md",
+    "Go modules security.md",
     "Go error handling.md",
     "Semantic Versioning.md",
     "Database users policy.md",
     "Separation of Concerns.md",
-    "To read.md",
     "Organizing dependencies go.md",
     "Creating command line flags go.md",
     "12 factor app.md",
@@ -163,15 +208,6 @@
     "Mutex.md",
     "Go default servermux.md",
     "Ram cache.md",
-    "Go http Handle vs HandleFunc.md",
-    "Go project structure.md",
-    "Headers http2.md",
-    "Go http.DetectContentType.md",
-    "Go response writer.md",
-    "Sheppard tone.md",
-    "Go routing.md",
-    "Go basic http server schema.md",
-    "Java/JSF/procedimento habilitar devtools.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-23 10.05.49.excalidraw.md"
+    "Go http Handle vs HandleFunc.md"
   ]
 }
