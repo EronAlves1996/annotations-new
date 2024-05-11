@@ -19,6 +19,27 @@
 	- [x] Search: alfanumeric value
 - [x] Refactor application to use dependency injection
 - [x] create loggers and refactor server
+- [x] define a base template for blog
+- [x] extract configuration to cli flags
+- [x] Creation methods needs headers `Location`
+- [x] Query parameters
+	- [x] Search: alfanumeric value
+- [x] Refactor application to use dependency injection
+- [x] create loggers and refactor server 
+- [x] Create error handling functions 
+- [x] Separate routes to a routes file
+- [x] Create docker database (pgsql)
+- [x]  Create a Makefile
+- [x] Create new user on db with restricted privileges 
+- [x] Migrate a posts table
+- [ ] install latest pgsql driver 
+- [ ] Create a write new post page 
+- [ ] Insert a couple of posts
+- [ ] install markdown parser
+- [ ] introduce pre visualization on new post page 
+- [ ] For blog post, it gonna have a boolean flag, indicating if it's a draft or not
+- [ ] Add a CSS and good styling in base template
+- [ ] Add database config flag
 - [ ] Docs
 - [ ] Path parameters required routes
 	- [ ] Comments

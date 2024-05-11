@@ -11,9 +11,23 @@
             "id": "fb2a4881ee183f91",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md"
+                "file": "pgsql describe talbe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4958b12671409f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Errors and Exceptions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -30,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "log.",
+                "query": "pgs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,15 +175,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb2a4881ee183f91",
+  "active": "dbf3f5564eeb05f4",
   "lastOpenFiles": [
-    "Go basic http server schema.md",
+    "pgsql describe talbe.md",
+    "Currículo/Postgresql.md",
     "Project Polyglot Blog Roadmap.md",
+    "Errors and Exceptions.md",
+    "Sheppard tone.md",
+    "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md",
+    "Go basic http server schema.md",
     "Go response writer.md",
     "Organizing dependencies go.md",
     "Go project structure.md",
     "Go type conversions.md",
-    "pgsql describe talbe.md",
     "Go struct.md",
     "Go slices.md",
     "Go string.md",
@@ -185,10 +204,6 @@
     "Golang headers.md",
     "Go type assertion.md",
     "Go http serving files.md",
-    "Go http Handle vs HandleFunc.md",
-    "Go env vars.md",
-    "Excalidraw/Drawing 2024-04-30 15.49.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-26 15.04.13.excalidraw.md",
     "Currículo",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
