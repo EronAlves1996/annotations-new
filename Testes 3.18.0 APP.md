@@ -1,0 +1,11 @@
+- [ ] Armazenar
+- [ ] Configuracoes
+- [ ] Expedicao
+	- [ ] Agrupador
+	- [ ] Empacotamento
+	- [ ] Não planejado
+- [ ] Info
+- [ ] Inventario
+- [ ] Recebimento
+- [ ] Reenderecar
+- [ ] Separaao

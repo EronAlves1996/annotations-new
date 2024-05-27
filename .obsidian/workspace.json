@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d341ac7665b570c9",
+        "id": "9b2ff0eaaf24c359",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2a4881ee183f91",
+            "id": "42e56825890e7c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pgsql describe talbe.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4958b12671409f4",
+            "id": "996e39f69f1c10a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Errors and Exceptions.md",
+                "file": "Testes 3.18.0 APP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dbf3f5564eeb05f4",
+            "id": "2b41699594b70120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "E commerce application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pgs",
+                "query": "testes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eabd87a27ca31744",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "Testes 3.18.0 APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md",
+                "file": "Testes 3.18.0 APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Polyglot Blog Roadmap.md"
+                "file": "Testes 3.18.0 APP.md"
               }
             }
           }
@@ -175,36 +174,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbf3f5564eeb05f4",
+  "active": "996e39f69f1c10a7",
   "lastOpenFiles": [
-    "pgsql describe talbe.md",
-    "Currículo/Postgresql.md",
-    "Project Polyglot Blog Roadmap.md",
-    "Errors and Exceptions.md",
-    "Sheppard tone.md",
-    "Excalidraw/Drawing 2024-04-26 14.47.47.excalidraw.md",
-    "Go basic http server schema.md",
-    "Go response writer.md",
-    "Organizing dependencies go.md",
-    "Go project structure.md",
+    "postgres prepared statement.md",
+    "Separation of Concerns.md",
+    "Semantic Versioning.md",
+    "Prepared statements.md",
+    "Passing data to Golang templates.md",
     "Go type conversions.md",
-    "Go struct.md",
-    "Go slices.md",
     "Go string.md",
-    "Project Polyglot Blog Roadmap.md~",
-    "adb devices no permissions.md",
-    "User input.md",
-    "Tomcat slow startup debug mode.md",
-    "To read.md",
-    "See what program is listening on port.md",
-    "Root privileged ports.md",
-    "Ram cache.md",
-    "Mutex.md",
-    "Headers http2.md",
-    "Golang headers.md",
-    "Go type assertion.md",
-    "Go http serving files.md",
-    "Currículo",
+    "Go slices.md",
+    "Go modules security.md",
+    "Go database connection.md",
+    "Go checking error types.md",
+    "Go SQL row scanning.md",
+    "Go SQL Nulls.md",
+    "Errors and Exceptions.md",
+    "Djxnxm.md",
+    "Database users policy.md",
+    "2024-05-27.md",
+    "Testes 3.18.0 APP.md",
+    "E commerce application.md",
+    "New Java quarkus project.md",
+    "2024-05-23.md",
+    "JSF Disabling Bean Validation when in Ajax.md",
+    "Java/JSF/Rendering div on jsf.md",
+    "Java/JSF/JSF passtrough elements.md",
+    "Excalidraw/Drawing 2024-05-13 13.15.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 10.05.49.excalidraw.md",
+    "Untitled",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
     "Java/JSF/imagens/Chrome Console.png",
@@ -222,6 +220,7 @@
     "Java/JSF",
     "Java",
     "Git Flow",
-    "Encoding"
+    "Encoding",
+    "Selenium"
   ]
 }
