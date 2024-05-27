@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testes 3.18.0 APP.md"
+                "file": "2024-05-27.md"
               }
             }
           }
@@ -174,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "996e39f69f1c10a7",
+  "active": "42e56825890e7c3d",
   "lastOpenFiles": [
+    "Testes 3.18.0 APP.md",
     "postgres prepared statement.md",
     "Separation of Concerns.md",
     "Semantic Versioning.md",
@@ -193,7 +193,6 @@
     "Djxnxm.md",
     "Database users policy.md",
     "2024-05-27.md",
-    "Testes 3.18.0 APP.md",
     "E commerce application.md",
     "New Java quarkus project.md",
     "2024-05-23.md",
