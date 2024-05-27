@@ -1,5 +1,7 @@
-- [ ] Armazenar
+- [x] Armazenar
 - [ ] Configuracoes
+	- [x] Configuracao
+	- [ ] Imprimir
 - [ ] Expedicao
 	- [ ] Agrupador
 	- [ ] Empacotamento

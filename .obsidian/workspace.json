@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,9 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42e56825890e7c3d",
+  "active": "996e39f69f1c10a7",
   "lastOpenFiles": [
     "Testes 3.18.0 APP.md",
+    "2024-05-27.md",
     "postgres prepared statement.md",
     "Separation of Concerns.md",
     "Semantic Versioning.md",
@@ -192,7 +194,6 @@
     "Errors and Exceptions.md",
     "Djxnxm.md",
     "Database users policy.md",
-    "2024-05-27.md",
     "E commerce application.md",
     "New Java quarkus project.md",
     "2024-05-23.md",
