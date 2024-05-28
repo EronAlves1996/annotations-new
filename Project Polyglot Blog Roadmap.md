@@ -32,7 +32,7 @@
 - [x]  Create a Makefile
 - [x] Create new user on db with restricted privileges 
 - [x] Migrate a posts table
-- [ ] install latest pgsql driver 
+- [x] install latest pgsql driver 
 - [ ] Create a write new post page 
 - [ ] Insert a couple of posts
 - [ ] install markdown parser
@@ -79,3 +79,4 @@
 - [ ] A post should have a creation date. Create a migration for this
 - [ ] render a post
 - [ ] Refactor for get the same post in an API and in a view
+- [ ] Use a better font face
