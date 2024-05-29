@@ -1,0 +1,5 @@
+- fast-jar: default compilation
+- uber-jar: fat jar with all required dependencies
+- native: compiles a graal vm native image
+- native-sources: compiles to graal vm, but stops before invoking graal vm
+- `quarkus-package-type`mvn prop

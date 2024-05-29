@@ -1,13 +1,37 @@
 - [x] Armazenar
-- [ ] Configuracoes
+- [x] Configuracoes
 	- [x] Configuracao
-	- [ ] Imprimir
+	- [x] Imprimir
 - [ ] Expedicao
+	- [x] Cenarios Basicos
+	- [x] Expedicao
 	- [ ] Agrupador
+		- [ ] Indicador de Caixa aberta: se eu expedir toda a quantidade do pallet virtual de uma vez, plano light, deverá virar para `true`?
 	- [ ] Empacotamento
+		- [ ] Agrupador
+			- [ ] `empacotarFracionadosVariaveis`
+		- [x] Fracionados Fixos
+		- [x] Inteiros
+			- [x] `testeImpressaoEtiquetaPacking`
+		- [x] **Sobreposicao
 	- [ ] Não planejado
-- [ ] Info
-- [ ] Inventario
-- [ ] Recebimento
-- [ ] Reenderecar
-- [ ] Separaao
+		- [ ] Fracionado Fixo Em Estoque
+			- [ ] Não passou - arrumar
+		- [ ] Fracionado Variavel em Estoque
+			- [ ] Não passsou - arrumar
+		- [ ] Inteiro Disponivel Em Estoque
+			- [ ] Não passou - arrumar
+		- [x] Inteiro Planejado em Outra expedicao
+		- [x] Particionado em estoque
+		- [x] Fracuonados Fixos diferentes disponiveis em estoque
+		- [x] fracionados variavies diferentes disponiveis em estoque
+		- [x] inteiros diferentes disponiveis em estoque
+		- [x] particionados diferentes disponiveis em estoque
+- [x] Info
+- [x] Inventario
+- [x] Recebimento
+- [x] Reenderecar
+- [ ] Separacao
+	- [x] Romaneio
+	- [ ] Separacao
+		- [ ] separarFracionadosIncompletosFixo

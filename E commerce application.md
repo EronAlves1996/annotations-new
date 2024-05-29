@@ -54,3 +54,54 @@ This project will allow you to practice the following concepts from the "Fullsta
 - Developing user authentication and authorization
 - Creating an admin dashboard for managing products, orders, and users
 - Deploying the application using Docker and Kubernetes
+
+- [x] Custom Id generation strategy
+- [ ] Migration (flyway)
+- [ ] Payments module
+	- [ ] schema
+		- [ ] id
+		- [ ] order
+		- [ ] status
+		- [ ] ways
+	- [ ] Payment Way
+		- [ ] id
+		- [ ] value
+		- [ ] wayType
+	- [ ] Create
+	- [ ] Get
+	- [ ] Update
+	- [ ] Soft Delete
+	- [ ] Delete
+- [ ] Users module
+	- [ ] Roles
+		- [ ] Admin
+		- [ ] Customer
+	- [ ] Create
+	- [ ] Get
+	- [ ] Update
+	- [ ] Soft delete
+	- [ ] delete
+- [ ] Orders module
+	- [ ] Schema
+		- [ ] Id
+		- [ ] products
+		- [ ] total
+		- [ ] payment
+		- [ ] user
+	- [ ] Create
+	- [ ] Get
+	- [ ] Update
+	- [ ] Soft Delete
+	- [ ] Delete
+- [ ] Products module
+	- [ ] Schema
+		- [ ] Id
+		- [x] name
+		- [x] price
+		- [ ] image
+	- [ ] Soft deletes
+	- [ ] Create
+	- [ ] Get
+	- [ ] Update
+	- [ ] Delete
+- [ ] Security login users
