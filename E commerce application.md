@@ -56,7 +56,7 @@ This project will allow you to practice the following concepts from the "Fullsta
 - Deploying the application using Docker and Kubernetes
 
 - [x] Custom Id generation strategy
-- [ ] Migration (flyway)
+- [x] Migration (flyway)
 - [ ] Payments module
 	- [ ] schema
 		- [ ] id
@@ -73,14 +73,15 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [ ] Soft Delete
 	- [ ] Delete
 - [ ] Users module
-	- [ ] Roles
-		- [ ] Admin
-		- [ ] Customer
+	- [x] Roles
+		- [x] Admin
+		- [x] Customer
 	- [ ] Create
-	- [ ] Get
+	- [x] Get
 	- [ ] Update
 	- [ ] Soft delete
 	- [ ] delete
+	- [ ] validation for dto
 - [ ] Orders module
 	- [ ] Schema
 		- [ ] Id

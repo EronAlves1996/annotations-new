@@ -8,55 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ccf231865042074a",
+            "id": "42e56825890e7c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTI/Acessos.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fe2d5c0b0d62315",
+            "id": "996e39f69f1c10a7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "e5f35a3e619cba9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarkus Entity visibility.md",
+                "file": "2024-05-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d79fee9c69d1d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate annotations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58cf2b55df3a16ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quarkus maven plugin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74666d2884c2be84",
+            "id": "2b41699594b70120",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,19 +59,19 @@
             }
           },
           {
-            "id": "43e054c093aae60b",
+            "id": "6cdf89b2e85f1460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acess",
+                "query": "27",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "E commerce application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testes 3.18.0 APP.md",
+                "file": "E commerce application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testes 3.18.0 APP.md"
+                "file": "E commerce application.md"
               }
             }
           }
@@ -209,26 +201,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e054c093aae60b",
+  "active": "2b41699594b70120",
   "lastOpenFiles": [
-    "GTI/Acessos.md",
+    "2024-05-27.md",
+    "2024-05-28.md",
+    "Persisting a entity Panache.md",
     "Untitled 1.md",
-    "Testes 3.18.0 APP.md",
-    "E commerce application.md",
-    "Hibernate annotations.md",
+    "Quarkus package modes.md",
+    "Quarkus maven plugin.md",
     "Quarkus Entity visibility.md",
     "Quarkus Elytron.md",
-    "Quarkus maven plugin.md",
-    "MySQL/Show all constraints on table.md",
-    "Quarkus package modes.md",
-    "2024-05-28.md",
-    "2024-05-27.md",
-    "Link css stylesheet html.md",
-    "Golang initialize buffer.md",
-    "Go template errors.md",
-    "Go serving static assets.md",
-    "Css vars.md",
-    "Css glueing footer to the end of page.md",
+    "Hibernate annotations.md",
+    "E commerce application.md",
+    "Untitled.canvas",
+    "Testes 3.18.0 APP.md",
     "postgres prepared statement.md",
     "Separation of Concerns.md",
     "Semantic Versioning.md",
@@ -237,6 +223,13 @@
     "Go type conversions.md",
     "Go string.md",
     "Go slices.md",
+    "Go modules security.md",
+    "Go database connection.md",
+    "Go checking error types.md",
+    "Go SQL row scanning.md",
+    "Go SQL Nulls.md",
+    "Errors and Exceptions.md",
+    "Djxnxm.md",
     "Untitled",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
