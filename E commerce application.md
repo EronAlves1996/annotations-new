@@ -106,3 +106,5 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [ ] Update
 	- [ ] Delete
 - [ ] Security login users
+- [ ] Map exceptions
+	- [ ] Database exceptions (hibernate exceptions)

@@ -33,5 +33,5 @@
 - [x] Reenderecar
 - [ ] Separacao
 	- [x] Romaneio
-	- [ ] Separacao
-		- [ ] separarFracionadosIncompletosFixo
+	- [x] Separacao
+		- [x] separarFracionadosIncompletosParticionado
