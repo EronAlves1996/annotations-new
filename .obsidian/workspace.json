@@ -8,70 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42e56825890e7c3d",
+            "id": "ccf231865042074a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "2024-06-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "996e39f69f1c10a7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "e5f35a3e619cba9c",
+            "id": "8fe2d5c0b0d62315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-28.md",
+                "file": "Quarkus Entity visibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b41699594b70120",
+            "id": "8d79fee9c69d1d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E commerce application.md",
+                "file": "Hibernate annotations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6cdf89b2e85f1460",
+            "id": "58cf2b55df3a16ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "2024-06-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "27",
+                "query": "acess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E commerce application.md",
+                "file": "2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E commerce application.md",
+                "file": "2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E commerce application.md"
+                "file": "2024-06-04.md"
               }
             }
           }
@@ -201,35 +185,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b41699594b70120",
+  "active": "ccf231865042074a",
   "lastOpenFiles": [
-    "2024-05-27.md",
+    "GTI/Acessos.md",
+    "2024-06-04.md",
+    "2024-05-10.md",
+    "2024-06-03.md",
     "2024-05-28.md",
-    "Persisting a entity Panache.md",
-    "Untitled 1.md",
-    "Quarkus package modes.md",
-    "Quarkus maven plugin.md",
-    "Quarkus Entity visibility.md",
-    "Quarkus Elytron.md",
+    "MySQL/Show all constraints on table.md",
+    "Currículo/Postgresql.md",
+    "GTI/Subindo versão.md",
     "Hibernate annotations.md",
     "E commerce application.md",
     "Untitled.canvas",
-    "Testes 3.18.0 APP.md",
-    "postgres prepared statement.md",
-    "Separation of Concerns.md",
-    "Semantic Versioning.md",
-    "Prepared statements.md",
-    "Passing data to Golang templates.md",
-    "Go type conversions.md",
-    "Go string.md",
-    "Go slices.md",
-    "Go modules security.md",
-    "Go database connection.md",
-    "Go checking error types.md",
-    "Go SQL row scanning.md",
-    "Go SQL Nulls.md",
-    "Errors and Exceptions.md",
+    "Persisting a entity Panache.md",
+    "To read.md",
+    "Javascript/JSON pretty print js.md",
+    "Go basic http server schema.md",
     "Djxnxm.md",
+    "Quarkus maven plugin.md",
+    "Quarkus Entity visibility.md",
+    "Testes 3.18.0 APP.md",
+    "Database users policy.md",
+    "2024-05-27.md",
+    "Testes que não estão passando.md",
+    "Untitled 1.md",
+    "Quarkus Elytron.md",
+    "Quarkus package modes.md",
+    "Link css stylesheet html.md",
+    "Golang initialize buffer.md",
     "Untitled",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
