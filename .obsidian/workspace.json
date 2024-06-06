@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-04.md",
+                "file": "2024-06-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-04.md",
+                "file": "2024-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-04.md",
+                "file": "2024-06-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-04.md"
+                "file": "2024-06-06.md"
               }
             }
           }
@@ -188,6 +188,15 @@
   "active": "ccf231865042074a",
   "lastOpenFiles": [
     "GTI/Acessos.md",
+    "2024-06-06.md",
+    "2024-06-05.md",
+    "2024-05-03.md",
+    "12 factor app.md",
+    "2024-05-02.md",
+    "2024-05-01.md",
+    "2024-04-29.md",
+    "2024-04-26.md",
+    "2024-04-25.md",
     "2024-06-04.md",
     "2024-05-10.md",
     "2024-06-03.md",
@@ -205,15 +214,6 @@
     "Djxnxm.md",
     "Quarkus maven plugin.md",
     "Quarkus Entity visibility.md",
-    "Testes 3.18.0 APP.md",
-    "Database users policy.md",
-    "2024-05-27.md",
-    "Testes que não estão passando.md",
-    "Untitled 1.md",
-    "Quarkus Elytron.md",
-    "Quarkus package modes.md",
-    "Link css stylesheet html.md",
-    "Golang initialize buffer.md",
     "Untitled",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
