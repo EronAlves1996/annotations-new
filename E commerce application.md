@@ -108,3 +108,7 @@ This project will allow you to practice the following concepts from the "Fullsta
 - [ ] Security login users
 - [ ] Map exceptions
 	- [ ] Database exceptions (hibernate exceptions)
+- [ ] Make tests for each behavior (or feature)
+- [ ] For every perceived bug, make tests
+- [ ] Include the `Version` field to entities
+- [ ] Refactor entities for composition instead of inheritance

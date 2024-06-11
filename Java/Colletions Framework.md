@@ -1,0 +1,1 @@
+* Collections.frequency => counts frequency of an element

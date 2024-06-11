@@ -1,0 +1,1 @@
+* REST Assured DSL follows Given When Then framework

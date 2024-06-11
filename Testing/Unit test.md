@@ -1,0 +1,1 @@
+* In a test, a unit generally is a behavior, but it can be resolved around the complexity of business logic. If it's complex, an unit should be reduced

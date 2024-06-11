@@ -1,0 +1,1 @@
+ * `409: CONFLICT`: used when Unique is violated (indicates the actual solicitation has conflicted with another resource)

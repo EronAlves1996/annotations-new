@@ -1,0 +1,2 @@
+- https://cr.openjdk.org/~jrose/values/values-0.html#example-comparison
+- Qruakus and fullstack react 126

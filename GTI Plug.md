@@ -1,0 +1,1 @@
+* No GTI-PLUG, para alterar a quantidade de uma etiqueta, é necessário que a etiqueta esteja no status Armazenado (Completar Etiqueta)

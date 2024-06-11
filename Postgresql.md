@@ -1,0 +1,2 @@
+* To drop any index in postgresql, it needs quotation around it. It means you have to use double quotes
+* When you drop some column where your partial index depends on, automatically your index is dropped together in postgresql

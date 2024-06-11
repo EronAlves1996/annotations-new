@@ -5,7 +5,7 @@
 ------
 ## Objetivo
 
-Desenvolvedor Fullstack
+Desenvolvedor Fullstack Java
 
 ## Experiências
 
@@ -17,6 +17,7 @@ Desenvolvedor Fullstack
 	* Na parte de Banco de Dados, atuei com MySQL e MongoDB. Otimizei várias queries, reduzindo o tempo de retorno em mais de 60% e melhorei a modelagem de algumas coleções do MongoDB, me aproveitando de queries de agregação;
 	* Uso do GIT como ferramenta de versionamento de código;
 	* Escrita de testes unitários e testes E2E para garantir a qualidade da aplicação, e correta implementação das regras de negócio;
+	* Manutenção de microsserviços auxiliares, com monitoramento, deploy e gerenciamento via GCP e AWS;
 	* Pareamento com colegas para auxílio técnico e também auxílio no entendimento da regra de negócio;
 	* Utilização de Kanban com reuniões ocasionais para controle e coordenação das tasks.
 
@@ -24,7 +25,7 @@ Desenvolvedor Fullstack
 	**Set/23 - Jan/24** 
 	* Responsável pelo escopo do front-end da aplicação e otimização do back-end;
 	* Construção de interfaces usando Next.js, React e Typescript;
-	* Otimização do back-end em Typescript, com banco de dados PostgreSQL, incluindo otimização e construção de queries performáticos de acordo com a necessidade da aplicação;
+	* Otimização do back-end em Typescript, com banco de dados PostgreSQL, incluindo otimização e construção de queries performáticas de acordo com a necessidade da aplicação;
 	* Utilização do GIT como ferramenta de controle de versão;
 	* Mentoria de pares, utilizando pair programming, reuniões e comunicação constante.
 
@@ -33,7 +34,8 @@ Desenvolvedor Fullstack
 	* Atuação com framework Java EE;
 	* Utilização do GIT como ferramento de controle de versão;
 	* Otimização de queries SQL;
-	* Ideação e construção de ferramentas de auxílio ao time de desenvolvimento utilizado Go e C# como stacks principais.
+	* Manutenção em vários arquivos de configuração em XML e arquivos de registro de formato proprietário do cliente. Recuperação de informações;
+	* Ideação e construção de ferramentas de auxílio ao time de desenvolvimento utilizando Go e C# como stacks principais.
 
 * ### Engenheiro de Software - Ixpertise Marketing e Tecnologia
 	**Jul/23 - Set/23**

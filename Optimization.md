@@ -1,0 +1,1 @@
+- Obviously optimizations are constrained to the targeted runtime or compiler. Just like memory alignments in C or byte count of a function compilation on JVM (to take advantage of inline and threshold)

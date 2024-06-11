@@ -4,58 +4,177 @@
     "type": "split",
     "children": [
       {
-        "id": "9b2ff0eaaf24c359",
+        "id": "a29a969ee57f1d81",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf231865042074a",
+            "id": "c5b51eccb9598b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-06.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8fe2d5c0b0d62315",
+            "id": "bafc822a76292b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarkus Entity visibility.md",
+                "file": "C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8d79fee9c69d1d55",
+            "id": "52c2db0fc18bfec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hibernate annotations.md",
+                "file": "2024-06-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58cf2b55df3a16ac",
+            "id": "425478bd4a2ffb34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-03.md",
+                "file": "2024-06-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1eedd5da124d931a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merge Versão 11.0.0 GTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c0b13b2171aee83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E commerce application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82344caef1f17d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993c888b79494267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "662aaa830c51e355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remessa -> Expedicao transferencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db0d313979da2518",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Merge Versao 11.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1bbf6dc377689650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actual readings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ac8ae57d21b4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E commerce application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb6cb3eb3c128dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4937093720a7af18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -101,8 +220,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-06.md",
+                "file": "Remessa -> Expedicao transferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-06.md",
+                "file": "Remessa -> Expedicao transferencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-06.md"
+                "file": "Remessa -> Expedicao transferencia.md"
               }
             }
           }
@@ -185,39 +303,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccf231865042074a",
+  "active": "662aaa830c51e355",
   "lastOpenFiles": [
-    "GTI/Acessos.md",
-    "2024-06-06.md",
-    "2024-06-05.md",
-    "2024-05-03.md",
-    "12 factor app.md",
-    "2024-05-02.md",
-    "2024-05-01.md",
-    "2024-04-29.md",
-    "2024-04-26.md",
-    "2024-04-25.md",
-    "2024-06-04.md",
-    "2024-05-10.md",
-    "2024-06-03.md",
-    "2024-05-28.md",
-    "MySQL/Show all constraints on table.md",
-    "Currículo/Postgresql.md",
-    "GTI/Subindo versão.md",
-    "Hibernate annotations.md",
+    "2024-06-11.md",
+    "Currículo/Eron Alves da Silva.md",
+    "Remessa -> Expedicao transferencia.md",
+    "Merge Versão 11.0.0 GTI.md",
+    "Excalidraw/Merge Versao 11.excalidraw.md",
+    "2024-06-10.md",
+    "Actual readings.md",
+    "Database users policy.md",
     "E commerce application.md",
+    "2024-06-07.md",
+    "Curl.md",
+    "C.md",
+    "ADB.md",
+    "GTI/Acessos.md",
+    "Go.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Untitled.canvas",
-    "Persisting a entity Panache.md",
-    "To read.md",
-    "Javascript/JSON pretty print js.md",
-    "Go basic http server schema.md",
-    "Djxnxm.md",
-    "Quarkus maven plugin.md",
-    "Quarkus Entity visibility.md",
-    "Untitled",
+    "CSS/Vars syntax.md",
+    "Css vars.md",
+    "CSS/Glueing footer to the end of page.md",
+    "CSS.md",
+    "CSS",
+    "Css glueing footer to the end of page.md",
+    "Creating command line flags go.md",
+    "Go slices.md",
+    "Create Logger.md",
+    "Testing",
     "Java/JSF/imagens/Lista fontes devtools.png",
     "Java/JSF/imagens/Configuracoes devtools.png",
     "Java/JSF/imagens/Chrome Console.png",
+    "Untitled 1",
     "Currículo",
     "Pasted image 20240301140436.png",
     "Pasted image 20240123152730.png",
@@ -231,8 +351,6 @@
     "Javascript",
     "Java/JSF",
     "Java",
-    "Git Flow",
-    "Encoding",
-    "Selenium"
+    "Git Flow"
   ]
 }

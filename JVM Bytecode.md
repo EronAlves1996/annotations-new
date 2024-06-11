@@ -1,0 +1,5 @@
+* The == operator is strange. For each of primitive types, in respect of the conversion for underlying JVM values, have it own bytecode for comparing (icmp, dcmp, fcmp, etc) but all of them follows the same path on C++ code of JVM
+* `invokespecial`bytecode instruction: invoke instance method
+* In bytecode, primitives have single letter descriptors, while classes have L descriptors(Ljava/lang/Object;). Prepending `[` we have an array type descriptor. `V` means void
+* In direct analogy, the Java is for bytecode what C is for assembly code (Linus Torvalds once told that we can predict the shape of assembly the C compiler would produce. Same for Java)
+* Rust and python make it opaque for us, but Java makes it transparent. Implicitly, `invokespecial` and `invokevirtual` takes the object ref as it's first arg. So `this` is an implicit pointer to the object.

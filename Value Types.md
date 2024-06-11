@@ -1,0 +1,2 @@
+* Values Types should be identity-less. It means that they don't have reference address on heap, and are not managed by the GC
+* Operator overloading for value types and even for reference types may be possible, but in Java, I think the best way to handle it is through providing an interface implementation, just like what happens for `Iterable` and `Comparable` interfaces.
