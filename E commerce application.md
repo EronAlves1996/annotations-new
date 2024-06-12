@@ -76,12 +76,10 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [x] Roles
 		- [x] Admin
 		- [x] Customer
-	- [ ] Create
+	- [x] Create
 	- [x] Get
-	- [ ] Update
+	- [x] Update
 	- [ ] Soft delete
-	- [ ] delete
-	- [ ] validation for dto
 - [ ] Orders module
 	- [ ] Schema
 		- [ ] Id
@@ -112,3 +110,4 @@ This project will allow you to practice the following concepts from the "Fullsta
 - [ ] For every perceived bug, make tests
 - [ ] Include the `Version` field to entities
 - [ ] Refactor entities for composition instead of inheritance
+- [ ] Promote user role
