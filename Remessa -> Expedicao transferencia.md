@@ -1,5 +1,5 @@
 - [ ] Fazer o hoisting do commandParam para evitar passar objetos para baixo
-- [ ] Testes indo
+- [x] Testes indo
 	- [x] Tentar integrar uma remessa sem cadastrar associações de local de estoque
 		- Resultado: não integra com mensagem informativa
 	- [x] Integrar uma remessa com local de estoque de entrada
@@ -16,6 +16,13 @@
 		- Resultado: não integra com mensagem informativa
 	- [x] Integra uma Remessa, cria duas transferências, modifica essa remessa para ser uma única transferência
 		- Resultado: A transferência excedente será excluída
-	- [ ] Integra uma Remessa, cria uma expedição, modifica para ser transferência
-	- [ ] Integra uma Remessa, cria duas transferências, modifica remessa para ser expedição
-- [ ] Testes voltando
+	- [x] Integra uma Remessa, cria uma expedição, modifica para ser transferência
+		- Resultado: a expedição normal tem que ser excluida e sobra só a de transferência
+	- [x] Integra uma Remessa, cria duas transferências, modifica remessa para ser expedição
+		- Resultado: As expedições de transferência serão excluídas e sobrará apenas a expedição normal
+- [x] Testes voltando
+	- [x] Criar remessa para 2 expedições transferencia, finaliza apenas uma
+		- Irá alterar os dados de rastreabilidade de apenas um produto, visto que, em remessas, não é possível remover produto via API
+	- [x] Criar remessa para 2 expedições transferencia, finaliza as duas
+		- Não poderá finalizar a Remessa, pois o Local de Estoque deverá ser de terceiros
+- [ ] Rever HTTPClient para passar um `map` de parametros ao inves de hardcodear o token
