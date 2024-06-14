@@ -1,1 +1,0 @@
-* Records are like named tuples. Value types dont have to act like that

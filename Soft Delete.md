@@ -1,0 +1,1 @@
+* Apparently, all the other frameworks of languages that, in theory, are less suitable for backend than java, already have soft delete support. Configuring soft delete on Laravel is ridiculously easy.

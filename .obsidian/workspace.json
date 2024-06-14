@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "67d4725d27dfd411",
+    "id": "7f257bb066b02e71",
     "type": "split",
     "children": [
       {
-        "id": "ec663dbeb6c5c896",
+        "id": "d25773e02d2ddcc8",
         "type": "tabs",
         "children": [
           {
-            "id": "63e762b4d282756b",
+            "id": "77f1cc0724d8843d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "899ecd73b0a5d917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Currículo/Postgresql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa9e65f298125227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f95e03fba6548c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actual readings.md",
+                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0a0c5c2d2e13f7ce",
+    "id": "353dc1754fa9c46e",
     "type": "split",
     "children": [
       {
-        "id": "091f5bd5b5bf83aa",
+        "id": "f058cb1ddf4ed660",
         "type": "tabs",
         "children": [
           {
-            "id": "f07baf4649ee28d0",
+            "id": "917d04992c2ebc5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +43,12 @@
             }
           },
           {
-            "id": "ae221464e583bf9e",
+            "id": "1aab4835b56fc957",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "postgre",
+                "query": "tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,36 +58,34 @@
             }
           },
           {
-            "id": "5759875535d16dbb",
+            "id": "22ba31b1792ac1be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "46212266b36b7dbc",
+    "id": "eabd87a27ca31744",
     "type": "split",
     "children": [
       {
-        "id": "a79329e75f13eec0",
+        "id": "b63aaa1d69f69d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "8596c2f52742e471",
+            "id": "cdf6b83ee4941863",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual readings.md",
+                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,19 +97,19 @@
             }
           },
           {
-            "id": "bf428e92b1cedf5c",
+            "id": "ea0eca57aa9f3595",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actual readings.md",
+                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5b9628d685ae95ad",
+            "id": "8f67868edcfcde6e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,16 +120,17 @@
             }
           },
           {
-            "id": "91deda928cb1e47d",
+            "id": "0d68cb73fd658ef2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual readings.md"
+                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,12 +148,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9f95e03fba6548c",
+  "active": "77f1cc0724d8843d",
   "lastOpenFiles": [
-    "2024-06-13.md",
-    "Postgresql.md",
-    "2024-06-03.md",
+    "JSF/Tag Tricks/JSF Disabling Bean Validation when in Ajax.md",
+    "Javascript.md",
+    "HTTP.md",
+    "Hibernate.md",
     "E commerce application.md",
-    "2024-06-11.md"
+    "JSF/Tag Tricks/Passing parameters to messages.md",
+    "JSF/Tag tricks.md",
+    "JSF/Tag Tricks/Passthrough Elements.md",
+    "JSF/Tag Tricks",
+    "JSF/Tag Tricks/JSF passing params via AJAX.md",
+    "Java/Java 1*.md",
+    "Java/Java*.md",
+    "Java",
+    "Hibernate annotations.md",
+    "Headers http2.md",
+    "Android.md",
+    "Actual readings.md",
+    "Passing data to Golang templates.md",
+    "Go/Go*.md",
+    "Organizing dependencies go.md",
+    "Value Types.md",
+    "User input.md",
+    "Tomcat slow startup debug mode.md",
+    "Testes 3.18.0 APP.md",
+    "GTI/Tomcat and tomee configs.md",
+    "GTI/Projeto FAB.md",
+    "GTI/Outros.md",
+    "GTI/Consultas.md",
+    "Go",
+    "Architecture",
+    "Pasted Image 20240614105034_562.png",
+    "Pasted Image 20240614101639_358.png",
+    "Pasted Image 20240614101558_592.png",
+    "Pasted Image 20240614101345_559.png",
+    "Pasted Image 20240614094709_430.png",
+    "JSF/imagens/Lista fontes devtools.png",
+    "JSF/imagens/Configuracoes devtools.png",
+    "GTI/Acessos",
+    "JSF/imagens/Chrome Console.png",
+    "Untitled.canvas",
+    "CSS",
+    "Testing",
+    "Untitled 1",
+    "Currículo",
+    "Pasted image 20240301140436.png",
+    "Pasted image 20240123152730.png",
+    "JSF/imagens"
   ]
 }

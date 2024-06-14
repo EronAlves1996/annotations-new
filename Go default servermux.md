@@ -1,2 +1,0 @@
-- if you don't use a servermux, and register directly to the http package, you gonna register to the default servermux
-- don't recommendable for production, because it is a global variable (any package can register on it)

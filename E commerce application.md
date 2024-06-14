@@ -1,4 +1,4 @@
-		**Project Idea: E-commerce Application**
+**Project Idea: E-commerce Application**
 
 **Description:** Develop a full-stack e-commerce application that allows users to browse and purchase products online. The application should have the following key features:
 

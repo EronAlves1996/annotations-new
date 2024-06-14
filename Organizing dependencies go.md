@@ -1,1 +1,0 @@
-https://www.alexedwards.net/blog/organising-database-access#closure

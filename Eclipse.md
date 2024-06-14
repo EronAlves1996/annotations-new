@@ -1,1 +1,0 @@
-* If loose dependencies references in Eclipse, rebuild it with package manager (gradle, mvn) manually

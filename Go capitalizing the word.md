@@ -1,3 +1,0 @@
-```go
-strings.Title(w)
-```

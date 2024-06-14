@@ -9,3 +9,4 @@
 * Quarkus security will parse and verify the token, and can inject the `JsonWebToken` as a request scoped bean for each request
 * Quarkus @RolesAllowed permits an endpoint for some roles
 * `quarkus-test-security-jwt` to test applications with a JWT security layer
+* Use `@TestSecurity` annotation on Quarkus Security Test to control the authorization context in quarkus tests

@@ -1,0 +1,1 @@
+* I don't think that writing the roles of some user directly on JWT may be a good idea, because the JWT can be intercepted and some new roles (like `admin`) can be written in it and fool the application out.

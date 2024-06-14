@@ -1,0 +1,1 @@
+* Every exception in your system is very important. You gonna catch the exceptions, warn them to be observability aware
