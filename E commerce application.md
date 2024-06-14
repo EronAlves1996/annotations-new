@@ -79,7 +79,7 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [x] Create
 	- [x] Get
 	- [x] Update
-	- [ ] Soft delete
+	- [x] Soft delete
 - [ ] Orders module
 	- [ ] Schema
 		- [ ] Id
@@ -111,3 +111,5 @@ This project will allow you to practice the following concepts from the "Fullsta
 - [ ] Include the `Version` field to entities
 - [ ] Refactor entities for composition instead of inheritance
 - [ ] Promote user role
+- [ ] Create exception treatment for `409 CONFLICT`
+- [ ] 

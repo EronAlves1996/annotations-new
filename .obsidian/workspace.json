@@ -1,86 +1,14 @@
 {
   "main": {
-    "id": "7f257bb066b02e71",
+    "id": "67d4725d27dfd411",
     "type": "split",
     "children": [
       {
-        "id": "a29a969ee57f1d81",
+        "id": "ec663dbeb6c5c896",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b51eccb9598b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bafc822a76292b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c2db0fc18bfec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "425478bd4a2ffb34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eedd5da124d931a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merge Versão 11.0.0 GTI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c0b13b2171aee83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82344caef1f17d35",
+            "id": "63e762b4d282756b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,41 +20,31 @@
             }
           },
           {
-            "id": "993c888b79494267",
+            "id": "899ecd73b0a5d917",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-11.md",
+                "file": "Currículo/Postgresql.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "662aaa830c51e355",
+            "id": "aa9e65f298125227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remessa -> Expedicao transferencia.md",
+                "file": "2024-06-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "db0d313979da2518",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Merge Versao 11.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1bbf6dc377689650",
+            "id": "c9f95e03fba6548c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,59 +54,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2ac8ae57d21b4e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E commerce application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb6cb3eb3c128dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4937093720a7af18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "353dc1754fa9c46e",
+    "id": "0a0c5c2d2e13f7ce",
     "type": "split",
     "children": [
       {
-        "id": "f058cb1ddf4ed660",
+        "id": "091f5bd5b5bf83aa",
         "type": "tabs",
         "children": [
           {
-            "id": "917d04992c2ebc5d",
+            "id": "f07baf4649ee28d0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -198,12 +80,12 @@
             }
           },
           {
-            "id": "1aab4835b56fc957",
+            "id": "ae221464e583bf9e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "acess",
+                "query": "postgre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,34 +95,36 @@
             }
           },
           {
-            "id": "22ba31b1792ac1be",
+            "id": "5759875535d16dbb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "eabd87a27ca31744",
+    "id": "46212266b36b7dbc",
     "type": "split",
     "children": [
       {
-        "id": "b63aaa1d69f69d3d",
+        "id": "a79329e75f13eec0",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf6b83ee4941863",
+            "id": "8596c2f52742e471",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remessa -> Expedicao transferencia.md",
+                "file": "Actual readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,19 +136,19 @@
             }
           },
           {
-            "id": "ea0eca57aa9f3595",
+            "id": "bf428e92b1cedf5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remessa -> Expedicao transferencia.md",
+                "file": "Actual readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8f67868edcfcde6e",
+            "id": "5b9628d685ae95ad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -275,17 +159,16 @@
             }
           },
           {
-            "id": "0d68cb73fd658ef2",
+            "id": "91deda928cb1e47d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remessa -> Expedicao transferencia.md"
+                "file": "Actual readings.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,53 +186,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "662aaa830c51e355",
+  "active": "c9f95e03fba6548c",
   "lastOpenFiles": [
-    "2024-06-11.md",
-    "Currículo/Eron Alves da Silva.md",
-    "Remessa -> Expedicao transferencia.md",
-    "Merge Versão 11.0.0 GTI.md",
-    "Excalidraw/Merge Versao 11.excalidraw.md",
-    "2024-06-10.md",
-    "Actual readings.md",
-    "Database users policy.md",
+    "2024-06-13.md",
+    "Postgresql.md",
+    "2024-06-03.md",
     "E commerce application.md",
-    "2024-06-07.md",
-    "Curl.md",
-    "C.md",
-    "ADB.md",
-    "GTI/Acessos.md",
-    "Go.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "CSS/Vars syntax.md",
-    "Css vars.md",
-    "CSS/Glueing footer to the end of page.md",
-    "CSS.md",
-    "CSS",
-    "Css glueing footer to the end of page.md",
-    "Creating command line flags go.md",
-    "Go slices.md",
-    "Create Logger.md",
-    "Testing",
-    "Java/JSF/imagens/Lista fontes devtools.png",
-    "Java/JSF/imagens/Configuracoes devtools.png",
-    "Java/JSF/imagens/Chrome Console.png",
-    "Untitled 1",
-    "Currículo",
-    "Pasted image 20240301140436.png",
-    "Pasted image 20240123152730.png",
-    "Pasted image 20240123143535.png",
-    "Pasted image 20240123142002.png",
-    "Pasted image 20240123141632.png",
-    "Pasted image 20240123113956.png",
-    "Pasted image 20240123113515.png",
-    "Java/JSF/imagens",
-    "MySQL",
-    "Javascript",
-    "Java/JSF",
-    "Java",
-    "Git Flow"
+    "2024-06-11.md"
   ]
+}
