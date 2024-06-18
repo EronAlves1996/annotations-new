@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77f1cc0724d8843d",
+            "id": "c1e1d6ea9d2337e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
+                "file": "2024-06-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25333995ed17a57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8c68c1f0c287754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E commerce application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "e-comm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eabd87a27ca31744",
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
+                "file": "E commerce application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md",
+                "file": "E commerce application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSF/Tag Tricks/JSF passing params via AJAX.md"
+                "file": "E commerce application.md"
               }
             }
           }
@@ -148,25 +175,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77f1cc0724d8843d",
+  "active": "b8c68c1f0c287754",
   "lastOpenFiles": [
+    "2024-06-17.md",
+    "Actual readings.md",
+    "E commerce application.md",
+    "JSF/Tag Tricks/JSF passing params via AJAX.md",
     "JSF/Tag Tricks/JSF Disabling Bean Validation when in Ajax.md",
     "Javascript.md",
     "HTTP.md",
     "Hibernate.md",
-    "E commerce application.md",
     "JSF/Tag Tricks/Passing parameters to messages.md",
     "JSF/Tag tricks.md",
     "JSF/Tag Tricks/Passthrough Elements.md",
     "JSF/Tag Tricks",
-    "JSF/Tag Tricks/JSF passing params via AJAX.md",
     "Java/Java 1*.md",
     "Java/Java*.md",
     "Java",
     "Hibernate annotations.md",
     "Headers http2.md",
     "Android.md",
-    "Actual readings.md",
     "Passing data to Golang templates.md",
     "Go/Go*.md",
     "Organizing dependencies go.md",
@@ -177,7 +205,6 @@
     "GTI/Tomcat and tomee configs.md",
     "GTI/Projeto FAB.md",
     "GTI/Outros.md",
-    "GTI/Consultas.md",
     "Go",
     "Architecture",
     "Pasted Image 20240614105034_562.png",

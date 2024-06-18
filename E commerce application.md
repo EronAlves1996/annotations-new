@@ -72,7 +72,7 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [ ] Update
 	- [ ] Soft Delete
 	- [ ] Delete
-- [ ] Users module
+- [x] Users module
 	- [x] Roles
 		- [x] Admin
 		- [x] Customer
@@ -94,11 +94,10 @@ This project will allow you to practice the following concepts from the "Fullsta
 	- [ ] Delete
 - [ ] Products module
 	- [ ] Schema
-		- [ ] Id
+		- [x] Id
 		- [x] name
 		- [x] price
 		- [ ] image
-	- [ ] Soft deletes
 	- [ ] Create
 	- [ ] Get
 	- [ ] Update
@@ -112,4 +111,5 @@ This project will allow you to practice the following concepts from the "Fullsta
 - [ ] Refactor entities for composition instead of inheritance
 - [ ] Promote user role
 - [ ] Create exception treatment for `409 CONFLICT`
-- [ ] 
+- [ ] Create exception treatment for `404 NOT FOUND`
+- [ ] Create a native image
