@@ -1,2 +1,3 @@
-- Qruakus and fullstack react 136
+- (ABANDONED?) Qruakus and fullstack react 126
+- Kafka the definitive guide page 47
 - https://www.baeldung.com/spring-boot-autowire-multiple-implementations
