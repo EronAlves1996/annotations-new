@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "7f257bb066b02e71",
+    "id": "4cdf8a44c793c809",
     "type": "split",
     "children": [
       {
-        "id": "d25773e02d2ddcc8",
+        "id": "9f19962fad5ece5f",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e1d6ea9d2337e8",
+            "id": "6be5661acabd9037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25333995ed17a57e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-06-17.md",
+                "file": "2024-06-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "353dc1754fa9c46e",
+    "id": "f23d99cc4df94074",
     "type": "split",
     "children": [
       {
-        "id": "f058cb1ddf4ed660",
+        "id": "457b18ad90fec95e",
         "type": "tabs",
         "children": [
           {
-            "id": "917d04992c2ebc5d",
+            "id": "2343f7dafe5ed205",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "1aab4835b56fc957",
+            "id": "dfdfac3b96c0ff75",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "postgre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,36 +58,34 @@
             }
           },
           {
-            "id": "22ba31b1792ac1be",
+            "id": "f9c5a2c036dd41e2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "eabd87a27ca31744",
+    "id": "648fce4f61d9625a",
     "type": "split",
     "children": [
       {
-        "id": "b63aaa1d69f69d3d",
+        "id": "e7cf40a7a5dd1ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf6b83ee4941863",
+            "id": "502b77c431879294",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +97,19 @@
             }
           },
           {
-            "id": "ea0eca57aa9f3595",
+            "id": "83154a0e53df8b93",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-17.md",
+                "file": "2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8f67868edcfcde6e",
+            "id": "d4840202121e6349",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +120,16 @@
             }
           },
           {
-            "id": "0d68cb73fd658ef2",
+            "id": "e418349e8b1e3139",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-17.md"
+                "file": "2024-06-20.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,62 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "25333995ed17a57e",
+  "active": "6be5661acabd9037",
   "lastOpenFiles": [
-    "Currículo/Postgresql.md",
-    "Postgresql.md",
-    "MySQL.md",
-    "2024-06-17.md",
-    "E commerce application.md",
-    "Actual readings.md",
-    "JSF/Tag Tricks/JSF passing params via AJAX.md",
-    "JSF/Tag Tricks/JSF Disabling Bean Validation when in Ajax.md",
-    "Javascript.md",
-    "HTTP.md",
-    "Hibernate.md",
-    "JSF/Tag Tricks/Passing parameters to messages.md",
-    "JSF/Tag tricks.md",
-    "JSF/Tag Tricks/Passthrough Elements.md",
-    "JSF/Tag Tricks",
-    "Java/Java 1*.md",
-    "Java/Java*.md",
-    "Java",
-    "Hibernate annotations.md",
-    "Headers http2.md",
-    "Android.md",
-    "Passing data to Golang templates.md",
-    "Go/Go*.md",
-    "Organizing dependencies go.md",
-    "Value Types.md",
-    "User input.md",
-    "Tomcat slow startup debug mode.md",
-    "Testes 3.18.0 APP.md",
-    "Go",
-    "Architecture",
-    "Pasted Image 20240614105034_562.png",
-    "Pasted Image 20240614101639_358.png",
-    "Pasted Image 20240614101558_592.png",
-    "Pasted Image 20240614101345_559.png",
-    "Pasted Image 20240614094709_430.png",
-    "JSF/imagens/Lista fontes devtools.png",
-    "JSF/imagens/Configuracoes devtools.png",
-    "GTI/Acessos",
-    "JSF/imagens/Chrome Console.png",
-    "Untitled.canvas",
-    "CSS",
-    "Testing",
-    "Untitled 1",
-    "Currículo",
-    "Pasted image 20240301140436.png",
-    "Pasted image 20240123152730.png",
-    "JSF/imagens"
+    "2024-06-19.md",
+    "2024-06-20.md"
   ]
+}
