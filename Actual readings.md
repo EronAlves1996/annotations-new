@@ -1,3 +1,3 @@
 - (ABANDONED?) Qruakus and fullstack react 126
-- Kafka the definitive guide page 47
-- https://www.baeldung.com/spring-boot-autowire-multiple-implementations
+- Kafka the definitive guide page 64
+- Working Effectively with Legacy Code

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9f19962fad5ece5f",
+        "id": "bb5b22ebf967993c",
         "type": "tabs",
         "children": [
           {
-            "id": "6be5661acabd9037",
+            "id": "f463a20ef3f0e8f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "2024-06-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48511b7322410dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actual readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "2024-06-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-20.md",
+                "file": "2024-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-20.md"
+                "file": "2024-06-28.md"
               }
             }
           }
@@ -147,9 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6be5661acabd9037",
+  "active": "f463a20ef3f0e8f1",
   "lastOpenFiles": [
+    "Actual readings.md",
+    "2024-06-28.md",
+    "Selenium.md",
+    "Task Estoque Omie.md",
+    "Supply chain attack.md",
+    "Autowiring Project.md",
+    "GTI/Acessos/GTI PLUG.md",
+    "2024-06-25.md",
+    "2024-06-20.md",
+    "GTI/Acessos/OUTROS.md",
+    "2024-06-24.md",
+    "Excalidraw/Drawing 2024-06-25 11.19.41.excalidraw.md",
+    "Pasted Image 20240625111952_777.png",
+    "Excalidraw",
     "2024-06-19.md",
-    "2024-06-20.md"
+    "2024-06-21.md",
+    "2024-06-23.md",
+    "2024-06-17.md"
   ]
 }
