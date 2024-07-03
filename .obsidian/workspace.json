@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "48511b7322410dd5",
+            "id": "51dffb30ffde26dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple messaging system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "726aad88d429cf0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-28.md",
+                "file": "Simple messaging system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-28.md",
+                "file": "Simple messaging system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-28.md"
+                "file": "Simple messaging system.md"
               }
             }
           }
@@ -159,8 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f463a20ef3f0e8f1",
+  "active": "51dffb30ffde26dd",
   "lastOpenFiles": [
+    "2024-06-18.md",
+    "2024-06-23.md",
+    "2024-06-19.md",
+    "Simple messaging system.md",
+    "2024-06-17.md",
+    "Currículo/Postgresql.md",
+    "Postgresql.md",
+    "MySQL.md",
+    "E commerce application.md",
     "Actual readings.md",
     "2024-06-28.md",
     "Selenium.md",
@@ -180,4 +202,3 @@
     "2024-06-23.md",
     "2024-06-17.md"
   ]
-}
