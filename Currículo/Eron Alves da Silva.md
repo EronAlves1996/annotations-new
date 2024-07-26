@@ -9,30 +9,54 @@ Desenvolvedor Fullstack
 
 ## Experiências
 
-* ### Desenvolvedor  Fullstack - Letwe Innovation
+* ### Desenvolvedor Java - Letwe Innovation
 	**Dez/23 - Atual**
-	Trabalhei diretamente com um produto de gestão logística, especificamente um WMS, onde o escopo do trabalho compreendia desde a prototipação do produto, até o deploy. O produto é no formato SAAS, multitenant, com versões web e mobile. 
-	O trabalho envolveu consistentemente implementação de novas features, resolução de bugs, muitas vezes críticos, refatorações de várias partes do código e diversas otimizações, uma vez que o produto possui extensivo débito técnico. A ideia é deixar a execução da aplicação mais rápida e com menos gargalos para suportar atuais e novos clientes.
-	Um dos grandes desafios é realizar as mudanças com suporte apenas de testes e2e para tal e sem documentação, bem como rever diversas partes do código que estavam deixando a execução mais lenta. Foi dado início a diversas documentações para apoiar o time comercial e novos entrantes do time de produto, reanalisado diversas queries SQL, principalmente aquelas ligadas à relatórios, produção de testes unitários para prover feedback mais rápido durante desenvolvimento e refatoração de grandes classes e códigos com muito débito.
-	A aplicação que subia em cerca de 1m30 passou a subir em menos de 30s, facilitando o feedback para desenvolvimento frontend. A entrega de novas features, de complexidade média, que demorava mais de 3 semanas passou a demorar 1 semana e meia em média, bem como reduziu-se a necessidade de reinício da aplicação, de intervalos de 1 dia para intervalos de 5 dias. As queries refatoradas, que rodavam indefinidamente, passaram a rodar com maior rapidez, onde para recuperar 30 mil linhas de informação agregada leva apenas 30 segundos.
-	**Tecnologias utilizadas**: Java, JavaEE, Spring Boot, Javascript, Angular, Java Mobile, MySQL, Docker, JSF.
+	- Refatoração e correção de diversas queries de relatórios, aumentando sua performance delas em mais de 50%. Recuperação de dados agregados de 15 tabelas, em 30 mil linhas, em 30 segundos;  
+	- Correção de memory leak envolvendo um Model Mapper, diminuindo drasticamente o startup da aplicação em 50% e eliminando incidência de tickets de lentidão por completo;  
+	- Melhoria de diversos testes e2e, reduzindo o tempo necessário para execução dos testes em 20%;  
+	- Atuação na melhoria de diversos detalhes da interface das aplicações, melhorando a usabilidade e experiência geral do usuário;  
+	- Inclusão de diversos índices em banco MongoDB e melhoria da visibilidade da rastreabilidade de integrações para clientes, reduzindo o número de tickets abertos por erros de integração com sistemas externos;  
+	- Propostas de melhorias simples que aumentou a flexibilidade da aplicação em integrar com sistemas externos, dando autonomia ao usuário sobre a melhor forma de realizar uma integração com o sistema.  
+	  
+	**Tecnologias utilizadas**: JavaEE, Jakarta, Spring Boot, Spring Framework, TestNG, Selenium, Android, RxJava, MySQL, SQL, MongoDB, Flyway, Hibernate, JPQL, JQuery, Javascript, JSF, Primefaces.
 
-* ### Desenvolvedor Fullstack - ESF Cunha Ltda
+* ### Desenvolvedor Node.js - ESF Cunha Ltda
 	**Set/23 - Jan/24** 
-	Trabalhei com desenvolvimento do site do Banco de Desenvolvimento do Piauí (Badespi) e realizando também otimizações necessárias para o Portal do Governo do Piauí. 
-	A necessidade maior era desenvolver do zero um novo portal para o Banco de Desenvolvimento do Piauí que fosse rápido, com uma boa pontuação de SEO, bem como rever alguns pontos do back-end do Portal do Governo do Piauí.
-	O desenvolvimento do Portal do Governo do Piauí teve alguns percalços o qual a pontuação de SEO e a performance do site não foi ótima. Com este aprendizado, foi realizado o desenvolvimento do Badespi utilizando tecnologias de pré-renderização em servidor para que a performance do lado do cliente não fosse impactada e tivesse melhor acessibilidade. No backend do Portal do Governo, foi necessário fazer alguns ajustes para que o painel de administração tivesse responsividade, bem como abrir novos endpoints que juntasse a pesquisa de diversos conteúdos (Notícias, Fotos e Vídeos), utilizando algoritmo Fuzzy Finder.
-	Comparando o SEO do Badespi e do Portal do Governo, o primeiro tem uma pontuação 2x maior e com carregamento quase que instatâneo, sem telas de loading. No Portal do Governo, a utilização do Painel de Administração do mesmo pode ser utilizado pelos administradores em qualquer dispositivo, permitindo rápida edição em qualquer lugar, além da pesquisa por notícias, fotos e vídeo mais rápida, sendo os filtros permitidos serem personalizados pelo usuário, com queries que não demoram mais que 1s para rodar em um portal com mais de 2000 notícias, 1000 catálogos de fotos e 500 vídeos.
-	**Tecnologias Utilizadas**: Next.js, React, Typescript, PostgreSQL, Strapi, Knex, Material UI
+	- Desenvolvimento do portal com tecnologia de renderização no servidor, otimizando o desempenho geral.  
+	- Foco na experiência do usuário para garantir carregamento rápido e eficiente de todas as páginas.  
+	- Implementação de algoritmo fuzzy finder, similar ao Google, para pesquisa rápida e eficiente de artigos, retornando resultados em menos de 1 segundo.  
+	- Extensão da pesquisa para incluir fotos e vídeos, aumentando a flexibilidade e autonomia do usuário.  
+	  
+	**Tecnologias utilizadas**: React, Strapi, Next.js, MUI, PostgreSQL, Node.js, Koa.
 
+* ### Desenvolvedor Node.js - Ixpertise Marketing e Tecnologia
+	**Jul/23 - Set/23**
+	- Desenvolvimento de portal responsivo para dispositivos móveis, tablets, computadores e outros.  
+	- Implementação do OpenGraph para gerar cards de pré-visualização de notícias em redes sociais (Facebook, WhatsApp, Twitter, etc.).  
+	- Personalização do Strapi para um painel administrativo responsivo, acessível em qualquer dispositivo.  
+	- Resolução de bugs diversos, melhorando a usabilidade e experiência do usuário.  
+	  
+	**Tecnologias utilizadas**: MUI, Typescript, Next.js, React, Strapi, PostgreSQL, Koa, Node.js.
 
-* ### Analista de Soluções Customizadas II - Capgemini Brasil
-	**Jul/22 - Set/23**
-	Trabalhei com uma aplicação com mais de 15 anos de existência em um cliente que é uma grande rede de restaurantes, utilizando Java EE para realizar a sustentação da aplicação.
-	Dentre as minhas responsibilidades, figuravam a resolução de bugs e tickets de terceiro nível, identificando resoluções de incidentes através de análises de logs e arquivos de configuração em formato XML. Verificava também dessincronia entre nodos da aplicação, visto que a mesma era distribuída e seus nodos estavam presentes em cerca de 15 máquinas para cada deploy.
-	Grande parte do software não era documentado, bem como procedimentos para resoluções de tickets, o qual iniciei este processo de documentação partindo do quase zero. Outros procedimentos analíticos eram feitos quase que repetidamente, o qual desenvolvi algumas ferramentas para realizar estes procedimentos de maneira mais rápida. Algumas refatorações foram feitas para eliminar gargalos em processos da aplicação.
-	Com a documentação, a integração de novos entrantes ficou ligeiramente mais curta. Antes um entrante demorava 6 meses para se habituar aos novos processos. Com a documentação, esse tempo passou para 4 meses. A documentação, bem como a automação dos processos, ajudou também na velocidade de resolução de incidentes e bugs, onde a investigação e resolução de um ticket de terceiro nível demorava cerca de 1 semana. O tempo caiu para 2 dias em média. O tempo de execução dos processos da aplicação também caiu, com otimização dos recursos. Antes utilizava 60% da CPU, demorando 20s para atualização de catálogos. Após a refatoração, o tempo caiu para 7s, com utilização de 40% da CPU.
-	**Tecnologias utilizadas**: Java, JavaEE, OracleDB, Go, C#, Javascript, Jquery, SOAP
+* ### Desenvolvedor Node.js - Ember Labs
+	**Abr/23 - Ago/23**
+	- Desenvolvimento inicial de produto de Marketing Digital, desde a ideação até a publicação.  
+	- Implementação de processamento em lote eficiente de artefatos, acelerando o processo de forma logarítmica (ex.: 5 artefatos em 5s, 15 artefatos em 8s).  
+	- Implementação de edição e pré-visualização de imagens no navegador, melhorando a experiência do usuário.  
+	- Criação da primeira versão da camada de persistência para configuração de preferências dos usuários.  
+	- Desenvolvimento da camada de internacionalização, ampliando o alcance global.  
+	- Iniciativa na implementação de testes, aumentando a robustez e prevenindo regressões.  
+	  
+	**Tecnologias utilizadas**: React, Typescript, Relay, Node.js, AWS Lambdas, AWS AppSync, AWS Amplify, AWS S3, DynamoDB.
+
+* ### Desenvolvedor Java - Capgemini Brasil
+	**Jul/22 - Dez/23**
+	- Desenvolvimento da documentação do projeto e de resolução de incidentes, que diminuiu em 30% o tempo de resolução do ticket médio, aumentando a eficiência na resolução em 25%;  
+	- Proposição altiva de ideias e de soluções para sustentação do sistema, que melhoraram o código e o entendimento do time acerca do mesmo no geral;  
+	- Com a documentação, o tempo de integração média passou a ser menor. O tempo médio de adaptação de um novo entrante diminuiu em cerca de 32%;  
+	- Desenvolvimento de automações para auxiliar e acelerar o tempo de investigação e resoluções de incidentes. Para os tickets relacionados, o tempo médio de resolução diminuiu em 50%;  
+	  
+	**Tecnologias utilizadas**: Java, C#, Javascript, Go, OracleSQL, XML, SOAP, REST, JavaEE, Hibernate.
 
 ## Formação
 

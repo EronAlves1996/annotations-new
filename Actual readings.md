@@ -1,3 +1,3 @@
 - (ABANDONED?) Qruakus and fullstack react 126
-- Kafka the definitive guide page 64
+- Kafka the definitive guide page 75
 - Working Effectively with Legacy Code
