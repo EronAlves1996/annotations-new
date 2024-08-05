@@ -23,12 +23,8 @@
             "id": "1bac09212d9cac18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exercises chapter 1 and 2 WEWLC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -52,9 +48,57 @@
                 "file": "Excalidraw/Drawing 2024-07-20 11.11.30.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "1d8c2a15f2ce266f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e0efafd8246ebb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e1c13991b28c61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Effectively with legacy code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "957436475023d00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapt Parameter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -104,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cf5e7f29257f372c",
@@ -120,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.11.30.excalidraw.md",
+                "file": "Adapt Parameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.11.30.excalidraw.md",
+                "file": "Adapt Parameter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.11.30.excalidraw.md"
+                "file": "Adapt Parameter.md"
               }
             }
           }
@@ -182,10 +227,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2fe90bfa18a13533",
+  "active": "957436475023d00d",
   "lastOpenFiles": [
-    "Pasted Image 20240720111146_066.png",
+    "Working Effectively with legacy code.md",
+    "Exercises.md",
+    "Micronaut Docs.md",
+    "Configuring CORS.md",
+    "@Configuration and @ConfigurationBuilder.md",
+    "Adapt Parameter.md",
+    "2024-08-04.md",
     "Currículo/Eron Alves da Silva.md",
+    "Pasted Image 20240720111146_066.png",
     "Excalidraw/Drawing 2024-07-20 11.11.30.excalidraw.md",
     "2024-07-02.md",
     "Exercises chapter 1 and 2 WEWLC.md",
