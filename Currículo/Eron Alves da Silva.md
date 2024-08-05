@@ -5,7 +5,7 @@
 ------
 ## Objetivo
 
-Desenvolvedor Fullstack
+Desenvolvedor Java
 
 ## Experiências
 
@@ -22,7 +22,7 @@ Desenvolvedor Fullstack
 
 * ### Desenvolvedor Node.js - ESF Cunha Ltda
 	**Set/23 - Jan/24** 
-	- Desenvolvimento do portal com tecnologia de renderização no servidor, otimizando o desempenho geral.  
+	- Desenvolvimento do portal com tecnologia de renderização no servidor, otimizando o desempenho geral. 
 	- Foco na experiência do usuário para garantir carregamento rápido e eficiente de todas as páginas.  
 	- Implementação de algoritmo fuzzy finder, similar ao Google, para pesquisa rápida e eficiente de artigos, retornando resultados em menos de 1 segundo.  
 	- Extensão da pesquisa para incluir fotos e vídeos, aumentando a flexibilidade e autonomia do usuário.  
@@ -49,7 +49,7 @@ Desenvolvedor Fullstack
 	  
 	**Tecnologias utilizadas**: React, Typescript, Relay, Node.js, AWS Lambdas, AWS AppSync, AWS Amplify, AWS S3, DynamoDB.
 
-* ### Desenvolvedor Java - Capgemini Brasil
+* ### Desenvolvedor Java - Arcos Dorados (McDonalds)
 	**Jul/22 - Dez/23**
 	- Desenvolvimento da documentação do projeto e de resolução de incidentes, que diminuiu em 30% o tempo de resolução do ticket médio, aumentando a eficiência na resolução em 25%;  
 	- Proposição altiva de ideias e de soluções para sustentação do sistema, que melhoraram o código e o entendimento do time acerca do mesmo no geral;  
