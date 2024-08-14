@@ -1,22 +1,71 @@
 - [x] Sincronizacao
-- [ ] Fazer a volta da expedição
-	- [ ] Auto preencher para tiny
-	- [ ] Alterar situação
-	- [ ] Enviar objeto para expedição
-	- [ ] Configuração em qual etapa da expedição irá integrar
-- [ ] Alterar a lógica da sincronizacao
-	- [ ] Tipo tem que ter data de ultima sincronização de acordo com mesmo tipo
-- [ ] Resincronizar
-	- [ ] Pedido de venda
-		- [ ] Retry produto 
-		- [ ] Retry pessoa
-	- [ ] Produto
-	- [ ] Pessoa
-	- [ ] Nota de entrada
-		- [ ] Retry produto
-		- [ ] Retry pessoa
-- [ ] Colocar um botão sincronizar em cada tela correspondente
-- [ ] Refatorar classes de sincronização
-	- [ ] Muita repetição
-- [ ] Resolver todo's em ITinyAPI
-- [ ] Testes unitários
+- [x] Fazer a volta da expedição
+	- [x] Auto preencher para tiny
+	- [x] Alterar situação
+	- [x] Configuração em qual etapa da expedição irá integrar
+- [x] Alterar a lógica da sincronizacao
+	- [x] Tipo tem que ter data de ultima sincronização de acordo com mesmo tipo
+- [x] Informar qual recebimento/expedição teve problema, e se for devido a produto/pessoa, informar o id
+- [x] Resincronizar
+	- [x] Pedido de venda
+		- [x] Retry produto 
+		- [x] Retry pessoa
+	- [x] Produto
+	- [x] Pessoa
+	- [x] Nota de entrada
+		- [x] Retry produto
+		- [x] Retry pessoa
+- [x] Colocar um botão sincronizar em cada tela correspondente
+- [x] Refatorar classes de sincronização
+	- [x] Muita repetição
+- [x] Resolver todo's em ITinyAPI
+- [x] Testes unitários
+- [x] Colocar texto dentro do `pageContentHeader`no messages
+- [x] Teste auto-preencher webhook evento
+	- [x] Auto-preencher omie
+	- [x] Auto-preencher tiny
+	- [x] Tenta mudar o auto-preenchimento de um para o outro
+- [x] Estilizar o auto-preencher
+- [x] Teste unitário da volta
+- [x] Mudar colunas de expedição da Omie para serem colunas genéricas
+- [x] Rodar testes para Integracoes
+- [x] Incluir na configuração de integração
+	- [x] Nome da configuração de integração
+- [x] Incluir em produto, pessoa, expedição, recebimento
+	- [x] Id configuração integracao
+- [x] Ao integrar, incluir o id da configuração de integração
+- [x] Conseguir integrar pelo id da configuração integração nos popups
+- [x] Testar ao menos um fluxo completo Omie
+- [x] Incluir configuração para considerar apenas pedidos de venda em separação
+- [x] Alterar situação de separação??
+- [x] Enviar para expedição
+- [x] Não enviar código integração do produto para expedição e recebimento (não mapear)
+- [x] Setar o meio de transporte durante integração do pedido de venda
+- [x] Ao associar produto, considerar a configuração de integração ao configurar o tipoProdutoPadrão
+- [x] Teste aparecer o botão sincronizar ao incluir uma configuração de integração TIny
+- [x] Complementar testes para verificar se o id da configuração de integração está vindo
+- [x] Resolver a configuração de integração na volta pelo id
+	- [x] MainoSyncValidator
+	- [x] OmieSyncValidator
+	- [x] OthersSyncValidator
+	- [x] OuroWebSyncValidator
+	- [x] Sapb1SyncValidator
+	- [x] SapiensSyncValidator
+	- [x] TInySyncValidator
+- [x] Fluxo completo Omie
+	- [x] Deletar a configuração de integração depois de terminar o fluxo
+- [x] Rodar todos os teste de integracao
+- [x] Migração para alterar etapa_omie_separar -> etapa_integracao_separar
+	- [x] Alterar também no integrador
+- [x] Tópico Separar do webhook Tiny
+- [x] Verificar configuração de separação no Tiny ao integrar
+- [x] Teste manual fluxo completo tiny
+- [x] Mapear meio de transporte do tiny para meio de transporte
+- [x] Rodar todos os webhook evento test case
+- [x] Teste recuperar config integracao pelo id
+- [x] Teste completo integrador
+- [x] Teste unitário tópico de separação
+- [x] Teste todos integracao
+- [x] teste todos webhook
+- [x] Teste todos integrador
+- [x] Teste sincronizar tudo com token real
